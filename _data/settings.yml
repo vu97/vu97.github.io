@@ -76,10 +76,10 @@ logo__items:
 
 #-------------------------------
 # Work Settings
-#work:
-#  enable: true
-#  work__title: Work
-#  work__description: Projects I've worked on, designed with passion, simplicity & creativity.
+work:
+  enable: true
+  work__title: Work
+  work__description: UX Portfolio
 
 
 #-------------------------------
