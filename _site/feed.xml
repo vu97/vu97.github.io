@@ -1,412 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Akio</title>
-        <description>Creative Portfolio Theme for Jekyll.</description>
+        <title>VF</title>
+        <description>User Experience Design Portfolio</description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 08 Jun 2023 18:04:49 -0700</pubDate>
-        <lastBuildDate>Thu, 08 Jun 2023 18:04:49 -0700</lastBuildDate>
+        <pubDate>Thu, 08 Jun 2023 18:39:55 -0700</pubDate>
+        <lastBuildDate>Thu, 08 Jun 2023 18:39:55 -0700</lastBuildDate>
         <generator>Jekyll v4.3.2</generator>
         
             <item>
-                <title>That which does not kill us makes us stronger</title>
-                <description>&lt;p&gt;Hymnals are books with collections of musical hymns that can typically be found in churches. Prayerbooks or missals are books that contain written prayers and are commonly carried by monks, nuns, and other devoted followers or clergy. Lap books are a learning tool created by students.&lt;/p&gt;
+                <title>Improving the UX of Superstore&apos;s product pages</title>
+                <description>&lt;h1 id=&quot;online-grocery-shopping-a-new-way-to-get-my-food&quot;&gt;Online grocery shopping: A new way to get my food&lt;/h1&gt;
 
-&lt;p&gt;There are several other types of books which are not commonly found under this system. Albums are books for holding a group of items belonging to a particular theme, such as a set of photographs, card collections, and memorabilia. One common example is stamp albums, which are used by many hobbyists to protect and organize their collections of postage stamps. Such albums are often made using removable plastic pages held inside in a ringed binder or other similar holder. Picture books are books for children with pictures on every page and less text (or even no text).&lt;/p&gt;
+&lt;p&gt;Like many foodies, one of the most pronounced changes in my lifestyle early in the pandemic was my diet. Specifically, where I went for food and how I bought my groceries. Getting food was no longer as simple as walking a few blocks and entering a physical store or restaurant.&lt;/p&gt;
+
+&lt;p&gt;Like me, many of my fellow Vancouverites had to change their grocery shopping habits: from buying in-store to buying online. As a result, it’s no surprise to hear that the online grocery market was one of the main digital beneficiaries during the pandemic. This is due to shoppers wanting to avoid public places, government orders to stay at home, and the continued need for groceries and essential goods (Keyes, 2021).&lt;/p&gt;
+
+&lt;p&gt;Us consumers were pretty fortunate though, since many options suddenly became available to buy food online (groceries and takeout). To name a few, Walmart, Costco, HelloFresh, Instacart and Real Canadian Superstore emerged as popular options to buy groceries online in Canada.&lt;/p&gt;
+
+&lt;h2 id=&quot;buying-groceries-from-my-local-superstore-online&quot;&gt;Buying groceries from my local Superstore, online&lt;/h2&gt;
+
+&lt;p&gt;My family has shopped at Real Canadian Superstore for as long as I can remember. When I decided to make my first online grocery order, I chose to buy from a store I knew well. While I was able to accomplish my task of ordering groceries, I noticed so many opportunities within the process for design intervention that would have allowed for a much smoother buying process. This post aims to evaluate the product page specifically as I experienced the most friction here.&lt;/p&gt;
+
+&lt;p&gt;===&lt;/p&gt;
+
+&lt;h2 id=&quot;evaluating-user-experience-opportunities-at-the-real-canadian-superstore&quot;&gt;Evaluating user experience opportunities at the Real Canadian Superstore&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Problem:&lt;/strong&gt; Pizza ad below “Fruits and Vegetables” heading appears out of place in its current position.
+&lt;strong&gt;Hypothesis:&lt;/strong&gt; If the pizza ad moved from its current location then users would know they are on the right page because their fruits and vegetable products would logically follow the header.
+&lt;strong&gt;Recommendation:&lt;/strong&gt; Assuming the ad brings significant revenue to the website, it would be ideal to keep it near the top of the page before the user scrolls. Rather than being directly under the Fruits and Vegetables header, consider placing it above so that there is a logical flow of header and then products.
+&lt;strong&gt;Expected Result:&lt;/strong&gt; Increase the % of visits to Product Display Page (PDP).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Problem:&lt;/strong&gt; Breadcrumb navigation is incomplete, making it difficult for users to fully visualize where they are within the site.
+&lt;strong&gt;Hypothesis:&lt;/strong&gt; If there were the added granularity of “Fruits and Vegetables” then users would be able to understand better where they are on the site because of the clear flow shown.
+&lt;strong&gt;Recommendation:&lt;/strong&gt; Add breadcrumb granularity (e.g. Home &amp;gt; Food &amp;gt; Fruits &amp;amp; Vegetables).
+&lt;strong&gt;Expected Result:&lt;/strong&gt; Lower the exit rate on product listing pages (PLP).&lt;/p&gt;
 
 &lt;div class=&quot;gallery-box&quot;&gt;
   &lt;div class=&quot;gallery&quot;&gt;
-    &lt;img src=&quot;/images/post-1-1.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Table&quot; /&gt;
-    &lt;img src=&quot;/images/post-1-2.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Table&quot; /&gt;
-    &lt;img src=&quot;/images/post-1-3.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Table&quot; /&gt;
+    &lt;img src=&quot;/images/superstore-1.jpg&quot; loading=&quot;lazy&quot; alt=&quot;example&quot; /&gt;
   &lt;/div&gt;
-  &lt;em&gt;Gallery / &lt;a href=&quot;https://unsplash.com/&quot; target=&quot;_blank&quot;&gt;Unsplash&lt;/a&gt;&lt;/em&gt;
+  &lt;em&gt;Example of current Superstore product page ad and breadcrumbs&amp;lt;/a&amp;gt;&lt;/em&gt;
 &lt;/div&gt;
 
-&lt;p&gt;Publishers may produce low-cost, pre-publication copies known as galleys or ‘bound proofs’ for promotional purposes, such as generating reviews in advance of publication. Galleys are usually made as cheaply as possible, since they are not intended for sale.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Problem:&lt;/strong&gt; Opportunity to streamline add to cart process by combining the number of each item with the initial add to cart.
+&lt;strong&gt;Hypothesis:&lt;/strong&gt; If users could select the number of each item they wanted before clicking ‘ADD’ then they are likely to buy more of each item because it’s all in one simple step.
+&lt;strong&gt;Recommendation:&lt;/strong&gt; Allow user to select the number of an item they want before clicking ‘ADD’.
+&lt;strong&gt;Expected Result:&lt;/strong&gt; Increase the Add to Cart Rate.&lt;/p&gt;
 
-&lt;p&gt;Dummy books (or faux books) are books that are designed to imitate a real book by appearance to deceive people, some books may be whole with empty pages, others may be hollow or in other cases, there may be a whole panel carved with spines which are then painted to look like books,  titles of some books may also be fictitious.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The advent of paperback books in the 20th century led to an explosion of popular publishing. Paperback books made owning books affordable for many people. Paperback books often included works from genres that had previously been published mostly in pulp magazines. As a result of the low cost of such books and the spread of bookstores filled with them (in addition to the creation of a smaller market of extremely cheap used paperbacks) owning a private library ceased to be a status symbol for the rich.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Problem:&lt;/strong&gt; There’s a lot of font styles and colours that are competing for attention that could cause some user confusion. Ending dates also look squished with little/no padding.
+&lt;strong&gt;Hypothesis:&lt;/strong&gt; If the design of the sale, multi, and limit labels are simplified and font styles are reduced then users will have an easier time finding the information they need because there will be less visual noise that competes for their attention.
+&lt;strong&gt;Recommendation:&lt;/strong&gt; Update labels and simplify font styles.
+&lt;strong&gt;Expected Result:&lt;/strong&gt; Increase in Revenue Per Visit.&lt;/p&gt;
 
 &lt;div class=&quot;gallery-box&quot;&gt;
   &lt;div class=&quot;gallery&quot;&gt;
-    &lt;img src=&quot;/images/post-1-4.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Books&quot; /&gt;
+    &lt;img src=&quot;/images/superstore-2.jpg&quot; loading=&quot;lazy&quot; alt=&quot;example&quot; /&gt;
   &lt;/div&gt;
-  &lt;em&gt;Photo by &lt;a href=&quot;https://unsplash.com/photos/_awzRovsBDU&quot; target=&quot;_blank&quot;&gt;NMG Network&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/&quot; target=&quot;_blank&quot;&gt;Unsplash&lt;/a&gt;&lt;/em&gt;
+  &lt;em&gt;Example of current Superstore product page items and design&amp;lt;/a&amp;gt;&lt;/em&gt;
 &lt;/div&gt;
 
-&lt;p&gt;In recent years, the book had a second life in the form of reading aloud. This is called public readings of published works, with the assistance of professional readers (often known actors) and in close collaboration with writers, publishers, booksellers, librarians, leaders of the literary world and artists.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Problem:&lt;/strong&gt; Selecting price range bins is simple, however it can become challenging for users who want to view products across multiple selections.
+&lt;strong&gt;Hypothesis:&lt;/strong&gt; If the price ranges section were updated to a slider then users would be given more freedom to select their desired range because they wouldn’t be stuck with the set ranges of $0-$4.99, $5-$9.99, etc.
+&lt;strong&gt;Recommendation:&lt;/strong&gt; Update price range section to a slider.
+&lt;strong&gt;Expected Result:&lt;/strong&gt; Increase in usage of price range section as a method to filter products.&lt;/p&gt;
 
-&lt;p&gt;This form of the book chain has hardly changed since the eighteenth century, and has not always been this way. Thus, the author has asserted gradually with time, and the copyright dates only from the nineteenth century. For many centuries, especially before the invention of printing, each freely copied out books that passed through his hands, adding if necessary his own comments. Similarly, bookseller and publisher jobs have emerged with the invention of printing, which made the book an industrial product, requiring structures of production and marketing.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Problem:&lt;/strong&gt; Unable to search for specific items within the fruits and vegetables section while remaining in the section.
+&lt;strong&gt;Hypothesis:&lt;/strong&gt; If a search feature were added within product pages then users would be able to locate items they want with more ease because they would not have to scroll through the page (potentially 656 results) to find what they are looking for.
+&lt;strong&gt;Recommendation:&lt;/strong&gt; Add a search feature within this section.
+&lt;strong&gt;Expected Result:&lt;/strong&gt; Lower cart abandonment rate&lt;/p&gt;
 
-&lt;p&gt;Paper was first made in China as early as 200 BC, and reached Europe through Muslim territories. At first made of rags, the industrial revolution changed paper-making practices, allowing for paper to be made out of wood pulp. Papermaking in Europe began in the 11th century, although vellum was also common there as page material up until the beginning of the 16th century, vellum being the more expensive and durable option.&lt;/p&gt;
+&lt;div class=&quot;gallery-box&quot;&gt;
+  &lt;div class=&quot;gallery&quot;&gt;
+    &lt;img src=&quot;/images/superstore-3.jpg&quot; loading=&quot;lazy&quot; alt=&quot;example&quot; /&gt;
+  &lt;/div&gt;
+  &lt;em&gt;Example of current Superstore price filter and search&amp;lt;/a&amp;gt;&lt;/em&gt;
+&lt;/div&gt;
+
+&lt;p&gt;===&lt;/p&gt;
+
+&lt;h2 id=&quot;redesign&quot;&gt;Redesign&lt;/h2&gt;
+
+&lt;p&gt;Finally, it was time to redesign the page. In addition to making updates based on my recommendations, I made minor tweaks to the user interface to give the site a slight facelift.&lt;/p&gt;
+
+&lt;div class=&quot;gallery-box&quot;&gt;
+  &lt;div class=&quot;gallery&quot;&gt;
+    &lt;img src=&quot;/images/superstore-redesign.jpg&quot; loading=&quot;lazy&quot; alt=&quot;redesign&quot; /&gt;
+  &lt;/div&gt;
+  &lt;em&gt;Redesigned Superstore product page&amp;lt;/a&amp;gt;&lt;/em&gt;
+&lt;/div&gt;
+
+&lt;p&gt;If you want to learn more about this redesign, please feel free to reach out to me on LinkedIn! Cheers, and thanks for reading 😊&lt;/p&gt;
 </description>
-                <pubDate>Fri, 14 Oct 2022 05:01:35 -0700</pubDate>
-                <link>http://localhost:4000/blog/that-which-does-not-kill-us-makes-us-stronger</link>
-                <guid isPermaLink="true">http://localhost:4000/blog/that-which-does-not-kill-us-makes-us-stronger</guid>
-                
-                <category>workflow</category>
-                
-                <category>notes</category>
-                
-                <category>study</category>
-                
-                
-            </item>
-        
-            <item>
-                <title>Do what you can, with what you have, where you are</title>
-                <description>&lt;p&gt;Hymnals are books with collections of musical hymns that can typically be found in churches. Prayerbooks or missals are books that contain written prayers and are commonly carried by monks, nuns, and other devoted followers or clergy. Lap books are a learning tool created by students.&lt;/p&gt;
-
-&lt;p&gt;There are several other types of books which are not commonly found under this system. Albums are books for holding a group of items belonging to a particular theme, such as a set of photographs, card collections, and memorabilia. One common example is stamp albums, which are used by many hobbyists to protect and organize their collections of postage stamps. Such albums are often made using removable plastic pages held inside in a ringed binder or other similar holder. Picture books are books for children with pictures on every page and less text (or even no text).&lt;/p&gt;
-
-&lt;div class=&quot;gallery-box&quot;&gt;
-  &lt;div class=&quot;gallery&quot;&gt;
-    &lt;img src=&quot;/images/post-1-1.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Table&quot; /&gt;
-    &lt;img src=&quot;/images/post-1-2.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Table&quot; /&gt;
-    &lt;img src=&quot;/images/post-1-3.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Table&quot; /&gt;
-  &lt;/div&gt;
-  &lt;em&gt;Gallery / &lt;a href=&quot;https://unsplash.com/&quot; target=&quot;_blank&quot;&gt;Unsplash&lt;/a&gt;&lt;/em&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Publishers may produce low-cost, pre-publication copies known as galleys or ‘bound proofs’ for promotional purposes, such as generating reviews in advance of publication. Galleys are usually made as cheaply as possible, since they are not intended for sale.&lt;/p&gt;
-
-&lt;p&gt;Dummy books (or faux books) are books that are designed to imitate a real book by appearance to deceive people, some books may be whole with empty pages, others may be hollow or in other cases, there may be a whole panel carved with spines which are then painted to look like books,  titles of some books may also be fictitious.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The advent of paperback books in the 20th century led to an explosion of popular publishing. Paperback books made owning books affordable for many people. Paperback books often included works from genres that had previously been published mostly in pulp magazines. As a result of the low cost of such books and the spread of bookstores filled with them (in addition to the creation of a smaller market of extremely cheap used paperbacks) owning a private library ceased to be a status symbol for the rich.&lt;/p&gt;
-
-&lt;div class=&quot;gallery-box&quot;&gt;
-  &lt;div class=&quot;gallery&quot;&gt;
-    &lt;img src=&quot;/images/post-1-4.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Books&quot; /&gt;
-  &lt;/div&gt;
-  &lt;em&gt;Photo by &lt;a href=&quot;https://unsplash.com/photos/_awzRovsBDU&quot; target=&quot;_blank&quot;&gt;NMG Network&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/&quot; target=&quot;_blank&quot;&gt;Unsplash&lt;/a&gt;&lt;/em&gt;
-&lt;/div&gt;
-
-&lt;p&gt;In recent years, the book had a second life in the form of reading aloud. This is called public readings of published works, with the assistance of professional readers (often known actors) and in close collaboration with writers, publishers, booksellers, librarians, leaders of the literary world and artists.&lt;/p&gt;
-
-&lt;p&gt;This form of the book chain has hardly changed since the eighteenth century, and has not always been this way. Thus, the author has asserted gradually with time, and the copyright dates only from the nineteenth century. For many centuries, especially before the invention of printing, each freely copied out books that passed through his hands, adding if necessary his own comments. Similarly, bookseller and publisher jobs have emerged with the invention of printing, which made the book an industrial product, requiring structures of production and marketing.&lt;/p&gt;
-
-&lt;p&gt;Paper was first made in China as early as 200 BC, and reached Europe through Muslim territories. At first made of rags, the industrial revolution changed paper-making practices, allowing for paper to be made out of wood pulp. Papermaking in Europe began in the 11th century, although vellum was also common there as page material up until the beginning of the 16th century, vellum being the more expensive and durable option.&lt;/p&gt;
-</description>
-                <pubDate>Wed, 12 Oct 2022 05:01:35 -0700</pubDate>
-                <link>http://localhost:4000/blog/do-what-you-can-with-what-you-have-where-you-are</link>
-                <guid isPermaLink="true">http://localhost:4000/blog/do-what-you-can-with-what-you-have-where-you-are</guid>
-                
-                <category>lifestyle</category>
-                
-                <category>travel</category>
-                
-                <category>story</category>
-                
-                
-            </item>
-        
-            <item>
-                <title>If you cannot do great things, do small things in a great way</title>
-                <description>&lt;p&gt;Hymnals are books with collections of musical hymns that can typically be found in churches. Prayerbooks or missals are books that contain written prayers and are commonly carried by monks, nuns, and other devoted followers or clergy. Lap books are a learning tool created by students.&lt;/p&gt;
-
-&lt;p&gt;There are several other types of books which are not commonly found under this system. Albums are books for holding a group of items belonging to a particular theme, such as a set of photographs, card collections, and memorabilia. One common example is stamp albums, which are used by many hobbyists to protect and organize their collections of postage stamps. Such albums are often made using removable plastic pages held inside in a ringed binder or other similar holder. Picture books are books for children with pictures on every page and less text (or even no text).&lt;/p&gt;
-
-&lt;div class=&quot;gallery-box&quot;&gt;
-  &lt;div class=&quot;gallery&quot;&gt;
-    &lt;img src=&quot;/images/post-1-1.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Table&quot; /&gt;
-    &lt;img src=&quot;/images/post-1-2.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Table&quot; /&gt;
-    &lt;img src=&quot;/images/post-1-3.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Table&quot; /&gt;
-  &lt;/div&gt;
-  &lt;em&gt;Gallery / &lt;a href=&quot;https://unsplash.com/&quot; target=&quot;_blank&quot;&gt;Unsplash&lt;/a&gt;&lt;/em&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Publishers may produce low-cost, pre-publication copies known as galleys or ‘bound proofs’ for promotional purposes, such as generating reviews in advance of publication. Galleys are usually made as cheaply as possible, since they are not intended for sale.&lt;/p&gt;
-
-&lt;p&gt;Dummy books (or faux books) are books that are designed to imitate a real book by appearance to deceive people, some books may be whole with empty pages, others may be hollow or in other cases, there may be a whole panel carved with spines which are then painted to look like books,  titles of some books may also be fictitious.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The advent of paperback books in the 20th century led to an explosion of popular publishing. Paperback books made owning books affordable for many people. Paperback books often included works from genres that had previously been published mostly in pulp magazines. As a result of the low cost of such books and the spread of bookstores filled with them (in addition to the creation of a smaller market of extremely cheap used paperbacks) owning a private library ceased to be a status symbol for the rich.&lt;/p&gt;
-
-&lt;div class=&quot;gallery-box&quot;&gt;
-  &lt;div class=&quot;gallery&quot;&gt;
-    &lt;img src=&quot;/images/post-1-4.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Books&quot; /&gt;
-  &lt;/div&gt;
-  &lt;em&gt;Photo by &lt;a href=&quot;https://unsplash.com/photos/_awzRovsBDU&quot; target=&quot;_blank&quot;&gt;NMG Network&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/&quot; target=&quot;_blank&quot;&gt;Unsplash&lt;/a&gt;&lt;/em&gt;
-&lt;/div&gt;
-
-&lt;p&gt;In recent years, the book had a second life in the form of reading aloud. This is called public readings of published works, with the assistance of professional readers (often known actors) and in close collaboration with writers, publishers, booksellers, librarians, leaders of the literary world and artists.&lt;/p&gt;
-
-&lt;p&gt;This form of the book chain has hardly changed since the eighteenth century, and has not always been this way. Thus, the author has asserted gradually with time, and the copyright dates only from the nineteenth century. For many centuries, especially before the invention of printing, each freely copied out books that passed through his hands, adding if necessary his own comments. Similarly, bookseller and publisher jobs have emerged with the invention of printing, which made the book an industrial product, requiring structures of production and marketing.&lt;/p&gt;
-
-&lt;p&gt;Paper was first made in China as early as 200 BC, and reached Europe through Muslim territories. At first made of rags, the industrial revolution changed paper-making practices, allowing for paper to be made out of wood pulp. Papermaking in Europe began in the 11th century, although vellum was also common there as page material up until the beginning of the 16th century, vellum being the more expensive and durable option.&lt;/p&gt;
-</description>
-                <pubDate>Tue, 11 Oct 2022 05:01:35 -0700</pubDate>
-                <link>http://localhost:4000/blog/if-you-cannot-do-great-things-do-small-things-in-a-great-way</link>
-                <guid isPermaLink="true">http://localhost:4000/blog/if-you-cannot-do-great-things-do-small-things-in-a-great-way</guid>
-                
-                <category>lifestyle</category>
-                
-                <category>rest</category>
-                
-                <category>notes</category>
-                
-                
-            </item>
-        
-            <item>
-                <title>Strive not to be a success, but rather to be of value</title>
-                <description>&lt;p&gt;Hymnals are books with collections of musical hymns that can typically be found in churches. Prayerbooks or missals are books that contain written prayers and are commonly carried by monks, nuns, and other devoted followers or clergy. Lap books are a learning tool created by students.&lt;/p&gt;
-
-&lt;p&gt;There are several other types of books which are not commonly found under this system. Albums are books for holding a group of items belonging to a particular theme, such as a set of photographs, card collections, and memorabilia. One common example is stamp albums, which are used by many hobbyists to protect and organize their collections of postage stamps. Such albums are often made using removable plastic pages held inside in a ringed binder or other similar holder. Picture books are books for children with pictures on every page and less text (or even no text).&lt;/p&gt;
-
-&lt;div class=&quot;gallery-box&quot;&gt;
-  &lt;div class=&quot;gallery&quot;&gt;
-    &lt;img src=&quot;/images/post-1-1.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Table&quot; /&gt;
-    &lt;img src=&quot;/images/post-1-2.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Table&quot; /&gt;
-    &lt;img src=&quot;/images/post-1-3.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Table&quot; /&gt;
-  &lt;/div&gt;
-  &lt;em&gt;Gallery / &lt;a href=&quot;https://unsplash.com/&quot; target=&quot;_blank&quot;&gt;Unsplash&lt;/a&gt;&lt;/em&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Publishers may produce low-cost, pre-publication copies known as galleys or ‘bound proofs’ for promotional purposes, such as generating reviews in advance of publication. Galleys are usually made as cheaply as possible, since they are not intended for sale.&lt;/p&gt;
-
-&lt;p&gt;Dummy books (or faux books) are books that are designed to imitate a real book by appearance to deceive people, some books may be whole with empty pages, others may be hollow or in other cases, there may be a whole panel carved with spines which are then painted to look like books,  titles of some books may also be fictitious.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The advent of paperback books in the 20th century led to an explosion of popular publishing. Paperback books made owning books affordable for many people. Paperback books often included works from genres that had previously been published mostly in pulp magazines. As a result of the low cost of such books and the spread of bookstores filled with them (in addition to the creation of a smaller market of extremely cheap used paperbacks) owning a private library ceased to be a status symbol for the rich.&lt;/p&gt;
-
-&lt;div class=&quot;gallery-box&quot;&gt;
-  &lt;div class=&quot;gallery&quot;&gt;
-    &lt;img src=&quot;/images/post-1-4.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Books&quot; /&gt;
-  &lt;/div&gt;
-  &lt;em&gt;Photo by &lt;a href=&quot;https://unsplash.com/photos/_awzRovsBDU&quot; target=&quot;_blank&quot;&gt;NMG Network&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/&quot; target=&quot;_blank&quot;&gt;Unsplash&lt;/a&gt;&lt;/em&gt;
-&lt;/div&gt;
-
-&lt;p&gt;In recent years, the book had a second life in the form of reading aloud. This is called public readings of published works, with the assistance of professional readers (often known actors) and in close collaboration with writers, publishers, booksellers, librarians, leaders of the literary world and artists.&lt;/p&gt;
-
-&lt;p&gt;This form of the book chain has hardly changed since the eighteenth century, and has not always been this way. Thus, the author has asserted gradually with time, and the copyright dates only from the nineteenth century. For many centuries, especially before the invention of printing, each freely copied out books that passed through his hands, adding if necessary his own comments. Similarly, bookseller and publisher jobs have emerged with the invention of printing, which made the book an industrial product, requiring structures of production and marketing.&lt;/p&gt;
-
-&lt;p&gt;Paper was first made in China as early as 200 BC, and reached Europe through Muslim territories. At first made of rags, the industrial revolution changed paper-making practices, allowing for paper to be made out of wood pulp. Papermaking in Europe began in the 11th century, although vellum was also common there as page material up until the beginning of the 16th century, vellum being the more expensive and durable option.&lt;/p&gt;
-</description>
-                <pubDate>Mon, 10 Oct 2022 05:01:35 -0700</pubDate>
-                <link>http://localhost:4000/blog/strive-not-to-be-a-success-but-rather-to-be-of-value</link>
-                <guid isPermaLink="true">http://localhost:4000/blog/strive-not-to-be-a-success-but-rather-to-be-of-value</guid>
-                
-                <category>technology</category>
-                
-                <category>workflow</category>
-                
-                <category>story</category>
-                
-                
-            </item>
-        
-            <item>
-                <title>A journey of a thousand leagues begins beneath one’s feet</title>
-                <description>&lt;p&gt;Hymnals are books with collections of musical hymns that can typically be found in churches. Prayerbooks or missals are books that contain written prayers and are commonly carried by monks, nuns, and other devoted followers or clergy. Lap books are a learning tool created by students.&lt;/p&gt;
-
-&lt;p&gt;There are several other types of books which are not commonly found under this system. Albums are books for holding a group of items belonging to a particular theme, such as a set of photographs, card collections, and memorabilia. One common example is stamp albums, which are used by many hobbyists to protect and organize their collections of postage stamps. Such albums are often made using removable plastic pages held inside in a ringed binder or other similar holder. Picture books are books for children with pictures on every page and less text (or even no text).&lt;/p&gt;
-
-&lt;div class=&quot;gallery-box&quot;&gt;
-  &lt;div class=&quot;gallery&quot;&gt;
-    &lt;img src=&quot;/images/post-1-1.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Table&quot; /&gt;
-    &lt;img src=&quot;/images/post-1-2.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Table&quot; /&gt;
-    &lt;img src=&quot;/images/post-1-3.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Table&quot; /&gt;
-  &lt;/div&gt;
-  &lt;em&gt;Gallery / &lt;a href=&quot;https://unsplash.com/&quot; target=&quot;_blank&quot;&gt;Unsplash&lt;/a&gt;&lt;/em&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Publishers may produce low-cost, pre-publication copies known as galleys or ‘bound proofs’ for promotional purposes, such as generating reviews in advance of publication. Galleys are usually made as cheaply as possible, since they are not intended for sale.&lt;/p&gt;
-
-&lt;p&gt;Dummy books (or faux books) are books that are designed to imitate a real book by appearance to deceive people, some books may be whole with empty pages, others may be hollow or in other cases, there may be a whole panel carved with spines which are then painted to look like books,  titles of some books may also be fictitious.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The advent of paperback books in the 20th century led to an explosion of popular publishing. Paperback books made owning books affordable for many people. Paperback books often included works from genres that had previously been published mostly in pulp magazines. As a result of the low cost of such books and the spread of bookstores filled with them (in addition to the creation of a smaller market of extremely cheap used paperbacks) owning a private library ceased to be a status symbol for the rich.&lt;/p&gt;
-
-&lt;div class=&quot;gallery-box&quot;&gt;
-  &lt;div class=&quot;gallery&quot;&gt;
-    &lt;img src=&quot;/images/post-1-4.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Books&quot; /&gt;
-  &lt;/div&gt;
-  &lt;em&gt;Photo by &lt;a href=&quot;https://unsplash.com/photos/_awzRovsBDU&quot; target=&quot;_blank&quot;&gt;NMG Network&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/&quot; target=&quot;_blank&quot;&gt;Unsplash&lt;/a&gt;&lt;/em&gt;
-&lt;/div&gt;
-
-&lt;p&gt;In recent years, the book had a second life in the form of reading aloud. This is called public readings of published works, with the assistance of professional readers (often known actors) and in close collaboration with writers, publishers, booksellers, librarians, leaders of the literary world and artists.&lt;/p&gt;
-
-&lt;p&gt;This form of the book chain has hardly changed since the eighteenth century, and has not always been this way. Thus, the author has asserted gradually with time, and the copyright dates only from the nineteenth century. For many centuries, especially before the invention of printing, each freely copied out books that passed through his hands, adding if necessary his own comments. Similarly, bookseller and publisher jobs have emerged with the invention of printing, which made the book an industrial product, requiring structures of production and marketing.&lt;/p&gt;
-
-&lt;p&gt;Paper was first made in China as early as 200 BC, and reached Europe through Muslim territories. At first made of rags, the industrial revolution changed paper-making practices, allowing for paper to be made out of wood pulp. Papermaking in Europe began in the 11th century, although vellum was also common there as page material up until the beginning of the 16th century, vellum being the more expensive and durable option.&lt;/p&gt;
-</description>
-                <pubDate>Sun, 09 Oct 2022 05:01:35 -0700</pubDate>
-                <link>http://localhost:4000/blog/a-journey-of-a-thousand-leagues-begins-beneath-one%CE%B3%C3%A7%C3%B6s-feet</link>
-                <guid isPermaLink="true">http://localhost:4000/blog/a-journey-of-a-thousand-leagues-begins-beneath-one%CE%B3%C3%A7%C3%B6s-feet</guid>
-                
-                <category>travel</category>
-                
-                <category>story</category>
-                
-                <category>rest</category>
-                
-                
-            </item>
-        
-            <item>
-                <title>Life shrinks or expands in proportion to one’s courage</title>
-                <description>&lt;p&gt;Hymnals are books with collections of musical hymns that can typically be found in churches. Prayerbooks or missals are books that contain written prayers and are commonly carried by monks, nuns, and other devoted followers or clergy. Lap books are a learning tool created by students.&lt;/p&gt;
-
-&lt;p&gt;There are several other types of books which are not commonly found under this system. Albums are books for holding a group of items belonging to a particular theme, such as a set of photographs, card collections, and memorabilia. One common example is stamp albums, which are used by many hobbyists to protect and organize their collections of postage stamps. Such albums are often made using removable plastic pages held inside in a ringed binder or other similar holder. Picture books are books for children with pictures on every page and less text (or even no text).&lt;/p&gt;
-
-&lt;div class=&quot;gallery-box&quot;&gt;
-  &lt;div class=&quot;gallery&quot;&gt;
-    &lt;img src=&quot;/images/post-1-1.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Table&quot; /&gt;
-    &lt;img src=&quot;/images/post-1-2.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Table&quot; /&gt;
-    &lt;img src=&quot;/images/post-1-3.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Table&quot; /&gt;
-  &lt;/div&gt;
-  &lt;em&gt;Gallery / &lt;a href=&quot;https://unsplash.com/&quot; target=&quot;_blank&quot;&gt;Unsplash&lt;/a&gt;&lt;/em&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Publishers may produce low-cost, pre-publication copies known as galleys or ‘bound proofs’ for promotional purposes, such as generating reviews in advance of publication. Galleys are usually made as cheaply as possible, since they are not intended for sale.&lt;/p&gt;
-
-&lt;p&gt;Dummy books (or faux books) are books that are designed to imitate a real book by appearance to deceive people, some books may be whole with empty pages, others may be hollow or in other cases, there may be a whole panel carved with spines which are then painted to look like books,  titles of some books may also be fictitious.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The advent of paperback books in the 20th century led to an explosion of popular publishing. Paperback books made owning books affordable for many people. Paperback books often included works from genres that had previously been published mostly in pulp magazines. As a result of the low cost of such books and the spread of bookstores filled with them (in addition to the creation of a smaller market of extremely cheap used paperbacks) owning a private library ceased to be a status symbol for the rich.&lt;/p&gt;
-
-&lt;div class=&quot;gallery-box&quot;&gt;
-  &lt;div class=&quot;gallery&quot;&gt;
-    &lt;img src=&quot;/images/post-1-4.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Books&quot; /&gt;
-  &lt;/div&gt;
-  &lt;em&gt;Photo by &lt;a href=&quot;https://unsplash.com/photos/_awzRovsBDU&quot; target=&quot;_blank&quot;&gt;NMG Network&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/&quot; target=&quot;_blank&quot;&gt;Unsplash&lt;/a&gt;&lt;/em&gt;
-&lt;/div&gt;
-
-&lt;p&gt;In recent years, the book had a second life in the form of reading aloud. This is called public readings of published works, with the assistance of professional readers (often known actors) and in close collaboration with writers, publishers, booksellers, librarians, leaders of the literary world and artists.&lt;/p&gt;
-
-&lt;p&gt;This form of the book chain has hardly changed since the eighteenth century, and has not always been this way. Thus, the author has asserted gradually with time, and the copyright dates only from the nineteenth century. For many centuries, especially before the invention of printing, each freely copied out books that passed through his hands, adding if necessary his own comments. Similarly, bookseller and publisher jobs have emerged with the invention of printing, which made the book an industrial product, requiring structures of production and marketing.&lt;/p&gt;
-
-&lt;p&gt;Paper was first made in China as early as 200 BC, and reached Europe through Muslim territories. At first made of rags, the industrial revolution changed paper-making practices, allowing for paper to be made out of wood pulp. Papermaking in Europe began in the 11th century, although vellum was also common there as page material up until the beginning of the 16th century, vellum being the more expensive and durable option.&lt;/p&gt;
-</description>
-                <pubDate>Sat, 08 Oct 2022 05:01:35 -0700</pubDate>
-                <link>http://localhost:4000/blog/life-shrinks-or-expands-in-proportion-to-one%CE%B3%C3%A7%C3%B6s-courage</link>
-                <guid isPermaLink="true">http://localhost:4000/blog/life-shrinks-or-expands-in-proportion-to-one%CE%B3%C3%A7%C3%B6s-courage</guid>
-                
-                <category>notes</category>
-                
-                <category>technology</category>
-                
-                <category>lifestyle</category>
-                
-                
-            </item>
-        
-            <item>
-                <title>Everything has beauty, but not everyone can see</title>
-                <description>&lt;p&gt;Hymnals are books with collections of musical hymns that can typically be found in churches. Prayerbooks or missals are books that contain written prayers and are commonly carried by monks, nuns, and other devoted followers or clergy. Lap books are a learning tool created by students.&lt;/p&gt;
-
-&lt;p&gt;There are several other types of books which are not commonly found under this system. Albums are books for holding a group of items belonging to a particular theme, such as a set of photographs, card collections, and memorabilia. One common example is stamp albums, which are used by many hobbyists to protect and organize their collections of postage stamps. Such albums are often made using removable plastic pages held inside in a ringed binder or other similar holder. Picture books are books for children with pictures on every page and less text (or even no text).&lt;/p&gt;
-
-&lt;div class=&quot;gallery-box&quot;&gt;
-  &lt;div class=&quot;gallery&quot;&gt;
-    &lt;img src=&quot;/images/post-1-1.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Table&quot; /&gt;
-    &lt;img src=&quot;/images/post-1-2.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Table&quot; /&gt;
-    &lt;img src=&quot;/images/post-1-3.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Table&quot; /&gt;
-  &lt;/div&gt;
-  &lt;em&gt;Gallery / &lt;a href=&quot;https://unsplash.com/&quot; target=&quot;_blank&quot;&gt;Unsplash&lt;/a&gt;&lt;/em&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Publishers may produce low-cost, pre-publication copies known as galleys or ‘bound proofs’ for promotional purposes, such as generating reviews in advance of publication. Galleys are usually made as cheaply as possible, since they are not intended for sale.&lt;/p&gt;
-
-&lt;p&gt;Dummy books (or faux books) are books that are designed to imitate a real book by appearance to deceive people, some books may be whole with empty pages, others may be hollow or in other cases, there may be a whole panel carved with spines which are then painted to look like books,  titles of some books may also be fictitious.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The advent of paperback books in the 20th century led to an explosion of popular publishing. Paperback books made owning books affordable for many people. Paperback books often included works from genres that had previously been published mostly in pulp magazines. As a result of the low cost of such books and the spread of bookstores filled with them (in addition to the creation of a smaller market of extremely cheap used paperbacks) owning a private library ceased to be a status symbol for the rich.&lt;/p&gt;
-
-&lt;div class=&quot;gallery-box&quot;&gt;
-  &lt;div class=&quot;gallery&quot;&gt;
-    &lt;img src=&quot;/images/post-1-4.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Books&quot; /&gt;
-  &lt;/div&gt;
-  &lt;em&gt;Photo by &lt;a href=&quot;https://unsplash.com/photos/_awzRovsBDU&quot; target=&quot;_blank&quot;&gt;NMG Network&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/&quot; target=&quot;_blank&quot;&gt;Unsplash&lt;/a&gt;&lt;/em&gt;
-&lt;/div&gt;
-
-&lt;p&gt;In recent years, the book had a second life in the form of reading aloud. This is called public readings of published works, with the assistance of professional readers (often known actors) and in close collaboration with writers, publishers, booksellers, librarians, leaders of the literary world and artists.&lt;/p&gt;
-
-&lt;p&gt;This form of the book chain has hardly changed since the eighteenth century, and has not always been this way. Thus, the author has asserted gradually with time, and the copyright dates only from the nineteenth century. For many centuries, especially before the invention of printing, each freely copied out books that passed through his hands, adding if necessary his own comments. Similarly, bookseller and publisher jobs have emerged with the invention of printing, which made the book an industrial product, requiring structures of production and marketing.&lt;/p&gt;
-
-&lt;p&gt;Paper was first made in China as early as 200 BC, and reached Europe through Muslim territories. At first made of rags, the industrial revolution changed paper-making practices, allowing for paper to be made out of wood pulp. Papermaking in Europe began in the 11th century, although vellum was also common there as page material up until the beginning of the 16th century, vellum being the more expensive and durable option.&lt;/p&gt;
-</description>
-                <pubDate>Sun, 29 May 2022 08:05:55 -0700</pubDate>
-                <link>http://localhost:4000/blog/everything-has-beauty-but-not-everyone-can-see</link>
-                <guid isPermaLink="true">http://localhost:4000/blog/everything-has-beauty-but-not-everyone-can-see</guid>
-                
-                <category>fashion</category>
-                
-                <category>technology</category>
-                
-                <category>study</category>
-                
-                
-            </item>
-        
-            <item>
-                <title>Remember that happiness is a way of travel, not a destination</title>
-                <description>&lt;p&gt;Hymnals are books with collections of musical hymns that can typically be found in churches. Prayerbooks or missals are books that contain written prayers and are commonly carried by monks, nuns, and other devoted followers or clergy. Lap books are a learning tool created by students.&lt;/p&gt;
-
-&lt;p&gt;There are several other types of books which are not commonly found under this system. Albums are books for holding a group of items belonging to a particular theme, such as a set of photographs, card collections, and memorabilia. One common example is stamp albums, which are used by many hobbyists to protect and organize their collections of postage stamps. Such albums are often made using removable plastic pages held inside in a ringed binder or other similar holder. Picture books are books for children with pictures on every page and less text (or even no text).&lt;/p&gt;
-
-&lt;div class=&quot;gallery-box&quot;&gt;
-  &lt;div class=&quot;gallery&quot;&gt;
-    &lt;img src=&quot;/images/post-1-1.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Table&quot; /&gt;
-    &lt;img src=&quot;/images/post-1-2.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Table&quot; /&gt;
-    &lt;img src=&quot;/images/post-1-3.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Table&quot; /&gt;
-  &lt;/div&gt;
-  &lt;em&gt;Gallery / &lt;a href=&quot;https://unsplash.com/&quot; target=&quot;_blank&quot;&gt;Unsplash&lt;/a&gt;&lt;/em&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Publishers may produce low-cost, pre-publication copies known as galleys or ‘bound proofs’ for promotional purposes, such as generating reviews in advance of publication. Galleys are usually made as cheaply as possible, since they are not intended for sale.&lt;/p&gt;
-
-&lt;p&gt;Dummy books (or faux books) are books that are designed to imitate a real book by appearance to deceive people, some books may be whole with empty pages, others may be hollow or in other cases, there may be a whole panel carved with spines which are then painted to look like books,  titles of some books may also be fictitious.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The advent of paperback books in the 20th century led to an explosion of popular publishing. Paperback books made owning books affordable for many people. Paperback books often included works from genres that had previously been published mostly in pulp magazines. As a result of the low cost of such books and the spread of bookstores filled with them (in addition to the creation of a smaller market of extremely cheap used paperbacks) owning a private library ceased to be a status symbol for the rich.&lt;/p&gt;
-
-&lt;div class=&quot;gallery-box&quot;&gt;
-  &lt;div class=&quot;gallery&quot;&gt;
-    &lt;img src=&quot;/images/post-1-4.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Books&quot; /&gt;
-  &lt;/div&gt;
-  &lt;em&gt;Photo by &lt;a href=&quot;https://unsplash.com/photos/_awzRovsBDU&quot; target=&quot;_blank&quot;&gt;NMG Network&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/&quot; target=&quot;_blank&quot;&gt;Unsplash&lt;/a&gt;&lt;/em&gt;
-&lt;/div&gt;
-
-&lt;p&gt;In recent years, the book had a second life in the form of reading aloud. This is called public readings of published works, with the assistance of professional readers (often known actors) and in close collaboration with writers, publishers, booksellers, librarians, leaders of the literary world and artists.&lt;/p&gt;
-
-&lt;p&gt;This form of the book chain has hardly changed since the eighteenth century, and has not always been this way. Thus, the author has asserted gradually with time, and the copyright dates only from the nineteenth century. For many centuries, especially before the invention of printing, each freely copied out books that passed through his hands, adding if necessary his own comments. Similarly, bookseller and publisher jobs have emerged with the invention of printing, which made the book an industrial product, requiring structures of production and marketing.&lt;/p&gt;
-
-&lt;p&gt;Paper was first made in China as early as 200 BC, and reached Europe through Muslim territories. At first made of rags, the industrial revolution changed paper-making practices, allowing for paper to be made out of wood pulp. Papermaking in Europe began in the 11th century, although vellum was also common there as page material up until the beginning of the 16th century, vellum being the more expensive and durable option.&lt;/p&gt;
-</description>
-                <pubDate>Fri, 24 Apr 2020 05:01:35 -0700</pubDate>
-                <link>http://localhost:4000/blog/remember-that-happiness-is-a-way-of-travel-not-a-destination</link>
-                <guid isPermaLink="true">http://localhost:4000/blog/remember-that-happiness-is-a-way-of-travel-not-a-destination</guid>
+                <pubDate>Mon, 20 Apr 2020 00:00:00 -0700</pubDate>
+                <link>http://localhost:4000/blog/superstore</link>
+                <guid isPermaLink="true">http://localhost:4000/blog/superstore</guid>
                 
                 <category>fashion</category>
                 
