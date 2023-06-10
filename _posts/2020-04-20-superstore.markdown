@@ -5,7 +5,7 @@ description: Online grocery shopping - a new way to get my food.
 date: 2020-04-20
 image: '/images/superstore-cover.jpg'
 image_caption: 'Photo by [Ali Pazani](https://unsplash.com/photos/I_S774RnI3g) on [Unsplash](https://unsplash.com/)'
-tags: [fashion, workflow, rest]
+tags: [side project]
 ---
 
 # Online grocery shopping: A new way to get my food

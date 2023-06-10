@@ -5,8 +5,8 @@
         <description>User Experience Design Portfolio</description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 08 Jun 2023 19:28:25 -0700</pubDate>
-        <lastBuildDate>Thu, 08 Jun 2023 19:28:25 -0700</lastBuildDate>
+        <pubDate>Fri, 09 Jun 2023 21:05:00 -0700</pubDate>
+        <lastBuildDate>Fri, 09 Jun 2023 21:05:00 -0700</lastBuildDate>
         <generator>Jekyll v4.3.2</generator>
         
             <item>
@@ -97,11 +97,7 @@
                 <link>http://localhost:4000/blog/superstore</link>
                 <guid isPermaLink="true">http://localhost:4000/blog/superstore</guid>
                 
-                <category>fashion</category>
-                
-                <category>workflow</category>
-                
-                <category>rest</category>
+                <category>side project</category>
                 
                 
             </item>
@@ -110,8 +106,9 @@
                 <title>Luna</title>
                 <description>&lt;p&gt;Luna is an idea for a native iOS app that helps people who experience stress and anxiety sleep better at night by improving their mental well being.&lt;/p&gt;
 
-&lt;p&gt;Team: Raymond Chou
-Tools: Figma, InVision, Otter.ai, and Google Sheets + Docs&lt;/p&gt;
+&lt;p&gt;**Team:** Raymond Chou&lt;/p&gt;
+&lt;p&gt;**Tools:** Figma, InVision, Otter.ai, Google Drive&lt;/p&gt;
+&lt;p&gt;**Timeline:** Three months&lt;/p&gt;
 
 &lt;h2 id=&quot;why-luna&quot;&gt;Why Luna?&lt;/h2&gt;
 &lt;p&gt;Sleep-deprived and filled with copious amounts of coffee ☕ - that’s how Raymond and I finished our intense UX boot camp. While TAing for the following cohort, we wanted to keep our UX skills sharp and decided to tackle a common interest in the problem space of sleep deprivation. We were curious to learn why we and so many others don’t get the recommended 8 hours of sleep each night. Was there an opportunity for design intervention?&lt;/p&gt;
@@ -119,33 +116,37 @@ Tools: Figma, InVision, Otter.ai, and Google Sheets + Docs&lt;/p&gt;
 &lt;p&gt;We set some constraints and goals early on:&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Limited to free research methods and resources&lt;/li&gt;
-  &lt;li&gt;Final product will be a hi-fi prototype with 12-20 screens of 1 or 2 task flows&lt;/li&gt;
-  &lt;li&gt;Design as a native iOS app&lt;/li&gt;
-  &lt;li&gt;Timeline: 3 months&lt;/li&gt;
+  &lt;li&gt;Hi-fi prototype with 12-20 screens of up to two task flows&lt;/li&gt;
+  &lt;li&gt;Native iOS app&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
 
 &lt;h2 id=&quot;empathize&quot;&gt;Empathize&lt;/h2&gt;
-&lt;h3 id=&quot;what-is-the-sleep-aid-market-like&quot;&gt;What is the sleep aid market like?&lt;/h3&gt;
-&lt;p&gt;At the time of writing this, the sleep aid market is set to reach up to 114B USD in 2025⁵. A study done by the Government of Canada found that approximately 1 in 3 adults get less than 7 hours of sleep each night, with 1 in 2 having trouble falling and staying asleep at night. The main factors contributing to this are chronic stress, sedentary lifestyles, and poor mental health².&lt;/p&gt;
+&lt;h3 id=&quot;1-in-3-adults-get-less-than-7-hours-of-sleep-each-night-gov-canada&quot;&gt;1 in 3 adults get less than 7 hours of sleep each night (Gov Canada)&lt;/h3&gt;
+
+&lt;p&gt;At the time of writing this, the sleep aid market is set to reach up to 114B USD in 2025⁵. A study done by the Government of Canada found that half of adults have trouble falling and staying asleep at night. The main factors contributing to this are chronic stress, sedentary lifestyles, and poor mental health².&lt;/p&gt;
 
 &lt;p&gt;​Studies have found that maintaining good daily habits can result in successful sleep. Some habits include regular wake-up and bed-times and practicing mindfulness and stress-reducing techniques².&lt;/p&gt;
 
-&lt;h3 id=&quot;who-is-the-competition&quot;&gt;Who is the competition?&lt;/h3&gt;
-&lt;p&gt;With a large sleep aid market, we were interested in learning more about other sleep apps and the potential for a new and differentiated entrant. Apps like Headspace, Sleep Sounds, Wysa, and Calm would be our direct competitors.&lt;/p&gt;
+&lt;h3 id=&quot;apps-like-headspace-sleep-sounds-wysa-and-calm-would-be-our-direct-competitors&quot;&gt;Apps like Headspace, Sleep Sounds, Wysa, and Calm would be our direct competitors&lt;/h3&gt;
+&lt;p&gt;With a large sleep aid market, we were interested in learning more about other sleep apps and the potential for a new and differentiated entrant.&lt;/p&gt;
 
-&lt;p&gt;Studies done on HeadSpace and Calm found that&lt;/p&gt;
+&lt;p&gt;Studies done specifically on HeadSpace and Calm found that&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;College students that regularly used the Calm app experienced reduced stress and boosted mindfulness⁴&lt;/li&gt;
   &lt;li&gt;Users experienced a 14–28% decrease in stress after 10 days of using HeadSpace⁴&lt;/li&gt;
   &lt;li&gt;HeadSpace improved user focus by 27%⁴&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;why-are-people-sleep-deprived&quot;&gt;Why are people sleep deprived?&lt;/h3&gt;
-&lt;p&gt;We conducted 7 one-on-one interviews, asking open-ended questions to learn about people’s sleep, bedtime habits, and experiences with sleep deprivation. We interviewed people who have experienced sleep deprivation, targeting post-secondary students and working professionals. From the research, we found that stress and anxiety were common feelings that people experienced before bed. Other insights included phone usage before bed,  using meditation as a remedy, people caring about their sleep quality, and feeling a lack of incentive to follow good sleep habits.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/luna-competitors.jpg&quot; alt=&quot;Competitors&quot; /&gt;
+&lt;em&gt;About Luna direct competitors&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;With our initial research complete, we crafted a design challenge - our north star for the project.&lt;/p&gt;
+&lt;h3 id=&quot;interviewees-commonly-mentioned-stress-and-anxiety-as-culprits-for-sleep-deprivation&quot;&gt;Interviewees commonly mentioned stress and anxiety as culprits for sleep deprivation&lt;/h3&gt;
+&lt;p&gt;We conducted 7 interviews, asking open-ended questions to learn about people’s sleep, bedtime habits, and experiences with sleep deprivation. We interviewed people who have experienced sleep deprivation, targeting post-secondary students and working professionals. From the research, we found that stress and anxiety were common feelings that people experienced before bed. Other insights included phone usage before bed,  using meditation as a remedy, people caring about their sleep quality, and feeling a lack of incentive to follow good sleep habits.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/luna-themes.jpg&quot; alt=&quot;Themes&quot; /&gt;
+&lt;em&gt;Interview themes&lt;/em&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;HMW help people experiencing stress and anxiety improve their mental wellbeing so that they can sleep better at night?&lt;/p&gt;
@@ -156,46 +157,74 @@ Tools: Figma, InVision, Otter.ai, and Google Sheets + Docs&lt;/p&gt;
 &lt;h3 id=&quot;who-are-we-designing-for&quot;&gt;Who are we designing for?&lt;/h3&gt;
 &lt;p&gt;We created Alexandria to encompass the pain points, motivations, and behaviors found from our interviews. She’s a stressed student that is always up late studying and only gets 5-6 hours of sleep each night as a consequence. She wants to get into a routine of sleeping earlier but often finds it difficult to calm their thoughts. On top of that, her phone is a distraction before bed with a constant fear of missing out.&lt;/p&gt;
 
-&lt;h3 id=&quot;what-problem-should-we-focus-on&quot;&gt;What problem should we focus on?&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/luna-persona.jpg&quot; alt=&quot;Persona&quot; /&gt;
+&lt;em&gt;Persona&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;as-a-student-who-is-often-anxious-i-want-access-to-a-library-of-sleep-stories-sounds-and-audios-to-listen-to-before-bedtime-so-that-i-can-calm-myself-down-and-fall-asleep-more-easily&quot;&gt;As a student who is often anxious, I want access to a library of sleep stories, sounds, and audios to listen to before bedtime so that I can calm myself down and fall asleep more easily&lt;/h3&gt;
 &lt;p&gt;Brainstorming user stories helped us determine potential solutions for Alexandria. We then grouped the stories into epics, with our core epic being to play sleep audios as this would best support our design challenge.&lt;/p&gt;
 
-&lt;p&gt;As a student who is often anxious, I want access to a library of sleep stories, sounds, and audios to listen to before bedtime so that I can calm myself down and fall asleep more easily.
-When would Alexandria use the app?
-Based on our research, we created a story about how Alexandria might discover and use Luna for the first time.&lt;/p&gt;
+&lt;p&gt;Based on our research, we created a story about how Alexandria might discover and use Luna for the first time.&lt;/p&gt;
 
-&lt;h3 id=&quot;what-is-the-golden-path&quot;&gt;What is the golden path?&lt;/h3&gt;
-&lt;p&gt;A golden path was designed for how Alexandria might accomplish the goal of finding a sleep track to help them calm down before bed. Here, we brainstormed the screens, flow, call-to-action buttons, and system decisions. The diagram below did end up changing as a result of user testing results, but this was the initial concept of Luna.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/luna-scenario.jpg&quot; alt=&quot;Scenario Map&quot; /&gt;
+&lt;em&gt;Scenario map&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;designed-a-golden-path-for-how-alexandria-might-accomplish-her-goal&quot;&gt;Designed a golden path for how Alexandria might accomplish her goal&lt;/h3&gt;
+&lt;p&gt;Here, we brainstormed the screens, flow, call-to-action buttons, and system decisions. The diagram below did end up changing as a result of user testing results, but this was the initial concept of Luna.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/luna-task.jpg&quot; alt=&quot;Task Flow&quot; /&gt;
+&lt;em&gt;Task flow diagram&lt;/em&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;ideate&quot;&gt;IDEATE&lt;/h2&gt;
 &lt;h3 id=&quot;sought-inspiration&quot;&gt;Sought Inspiration&lt;/h3&gt;
-&lt;p&gt;Before sketching and creating wireframes, Raymond and I looked at other apps (competitors and unrelated) for inspiration. We set up an InVision board and added categories for various screens and elements with the goal of creating an experience that users are familiar with.&lt;/p&gt;
+&lt;p&gt;Raymond and I looked at competitor and other apps for inspiration. We set up a collaborative board and added categories for various screens and elements with the goal of creating an experience that users are familiar with.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/luna-inspo.jpg&quot; alt=&quot;Inspiration&quot; /&gt;
+&lt;em&gt;Inspiration&lt;/em&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;sketched-design-variations&quot;&gt;Sketched design variations&lt;/h3&gt;
 &lt;p&gt;We also sketched multiple variations of each screen from our task flow. We used dot voting to choose which ideas we would digitize. Check out some of our very rough sketches below.&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;/images/luna-sketch.jpg&quot; alt=&quot;Skecth&quot; /&gt;
+&lt;em&gt;Sketches&lt;/em&gt;&lt;/p&gt;
 &lt;h3 id=&quot;curated-a-moodboard&quot;&gt;Curated a moodboard&lt;/h3&gt;
 &lt;p&gt;When brainstorming how we wanted Luna to look and feel, we came up with the following mood board that highlights key words such as “calm”, “relaxing”, “warm”, and “welcoming”.&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;/images/luna-mood.jpg&quot; alt=&quot;Mood&quot; /&gt;
+&lt;em&gt;Moodboard&lt;/em&gt;&lt;/p&gt;
 &lt;h3 id=&quot;typography&quot;&gt;Typography&lt;/h3&gt;
 &lt;p&gt;Conforming with Apple’s Human Interface Guidelines, we used the typefaces SF Pro Text and SF Pro Display throughout the app.&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;/images/luna-type.jpg&quot; alt=&quot;Type&quot; /&gt;
+&lt;em&gt;Type&lt;/em&gt;&lt;/p&gt;
 &lt;h3 id=&quot;colour&quot;&gt;Colour&lt;/h3&gt;
-&lt;p&gt;Extracting colours from our mood board helped us achieve a look and feel that was fitting for Luna.&lt;/p&gt;
+&lt;p&gt;We extracted colours from our mood board to achieve a look and feel that was fitting for Luna.&lt;/p&gt;
 
-&lt;p&gt;We chose blue as our primary colour due to its stress-reducing properties. The palette is mostly analogous with a mixture of blues and purples. A yellow was added for the Luna moon and to help evoke feelings of warmth and optimism. In general, the primary colours used in Luna are darker tones to help users reduce eye strain before bed. We wanted Luna to be accessible and ensured with our colour choices met WCAG AA standards throughout the app.&lt;/p&gt;
+&lt;p&gt;Blue is the primary colouraand is known for its stress-reducing properties. The palette is mostly analogous with a mixture of blues and purples. A yellow was added for the Luna moon and to help evoke feelings of warmth and optimism. The primary colours used are darker tones to help users reduce eye strain before bed. We wanted Luna to be accessible and ensured with our colour choices met WCAG AA standards throughout the app.&lt;/p&gt;
 
-&lt;h3 id=&quot;logo--wordmark&quot;&gt;Logo &amp;amp; wordmark&lt;/h3&gt;
-&lt;p&gt;Luna, another word for the moon, was chosen as the app name as we wanted something memorable and that users could easily find on their phones before going to bed. Other app name contenders were Zenny, CloudScape, and Medi. Dot voting led us to agree on Luna.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/luna-colour.jpg&quot; alt=&quot;Colour&quot; /&gt;
+&lt;em&gt;Colour&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;The wordmark went through many iterations as we experimented with various typefaces. Comfortaa, a rounded geometric sans-serif font, was chosen as it evokes comfort and coziness. The Luna moon used in place of the “u” was added to complete the wordmark and give it a unique look.&lt;/p&gt;
+&lt;h3 id=&quot;logo&quot;&gt;Logo&lt;/h3&gt;
+&lt;p&gt;Luna, another word for the moon, was chosen as the app name as we wanted something memorable and that users could easily find on their phones before going to bed. Other app name contenders were Zenny, CloudScape, and Medi. Dot voting led us to pick Luna.&lt;/p&gt;
 
-&lt;h2 id=&quot;prototype--test&quot;&gt;Prototype &amp;amp; Test&lt;/h2&gt;
+&lt;p&gt;Comfortaa, a rounded geometric sans-serif font, was chosen as it evokes comfort and coziness. The Luna moon used in place of the “u” was added to complete the wordmark and give it a unique look.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/luna-logo.jpg&quot; alt=&quot;Logo&quot; /&gt;
+&lt;em&gt;Logo&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;prototype--test&quot;&gt;Prototype &amp;amp; test&lt;/h2&gt;
 &lt;h3 id=&quot;high-fidelity&quot;&gt;High fidelity&lt;/h3&gt;
-&lt;p&gt;It took 2 hi-fi iterations to achieve the desired look and feel of Luna.&lt;/p&gt;
+&lt;p&gt;It took multiple iterations to achieve the desired look and feel of Luna.&lt;/p&gt;
 
 &lt;p&gt;We conducted usability test sessions for the first two iterations of Luna. We fixed usability issues in our greyscale prototypes, whereas the hi-fi focused on cosmetic issues and UI.&lt;/p&gt;
 
-&lt;h3 id=&quot;tasks-evaluated&quot;&gt;Tasks Evaluated&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/luna-v1.jpg&quot; alt=&quot;Low Fidelity&quot; /&gt;
+&lt;em&gt;Low fidelity (V1) screens&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/luna-hifi.jpg&quot; alt=&quot;High Fidelity&quot; /&gt;
+&lt;em&gt;High fidelity (final) screens&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;tasks-evaluated&quot;&gt;Tasks evaluated&lt;/h3&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Find the part of the app that allows user to select a period where they won’t use their phone&lt;/li&gt;
@@ -203,17 +232,35 @@ Based on our research, we created a story about how Alexandria might discover an
   &lt;li&gt;Post-test updates&lt;/li&gt;
 &lt;/ol&gt;
 
+&lt;h3 id=&quot;design-updates&quot;&gt;Design updates&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/luna-home1.jpg&quot; alt=&quot;Home&quot; /&gt;
+&lt;em&gt;Home design update - iteration 1&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/luna-home2.jpg&quot; alt=&quot;Home&quot; /&gt;
+&lt;em&gt;Home design update - iteration 2&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/luna-onboarding.jpg&quot; alt=&quot;Onboarding&quot; /&gt;
+&lt;em&gt;Onboarding - iteration 2&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/luna-profile.jpg&quot; alt=&quot;Profile&quot; /&gt;
+&lt;em&gt;Profile - iteration 1&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/luna-sleepcycle.jpg&quot; alt=&quot;Sleep cycle&quot; /&gt;
+&lt;em&gt;Sleep cycle - iteration 2&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&quot;result&quot;&gt;Result&lt;/h2&gt;
 &lt;p&gt;After multiple rounds of iterating and testing, we felt that we finished what we had set out to accomplish with this project. Watch the prototype video of Luna below, or try it out yourself on Figma.&lt;/p&gt;
+
+&lt;iframe style=&quot;border: 1px solid rgba(0, 0, 0, 0.1);&quot; width=&quot;800&quot; height=&quot;450&quot; src=&quot;https://www.figma.com/embed?embed_host=share&amp;amp;url=https%3A%2F%2Fwww.figma.com%2Fproto%2FhvD3ZYwrSG47jMnR1VjRBv%2FPortfolio-Website%3Ftype%3Ddesign%26node-id%3D1851-4013%26scaling%3Dcontain%26page-id%3D1843%253A112%26starting-point-node-id%3D1851%253A4013&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;hr /&gt;
 
 &lt;h2 id=&quot;reflect&quot;&gt;REFLECT&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Start with a paper prototype or card sort&lt;/strong&gt;
-During the first round of usability testing, Raymond and I learned that people didn’t understand why a sleep app had a digital health feature. Users also questioned what digital health was and thought that the goal-setting workflow was an alarm clock. In hindsight, starting with a paper prototype or card sort could have been a fast and easy way to learn about this problem before designing.&lt;/p&gt;
+During usability testing, we learned that people didn’t understand why a sleep app had a digital health feature. Users also questioned what digital health was and thought that the goal-setting workflow was an alarm clock. In hindsight, starting with a paper prototype or card sort could have been a fast and easy way to learn about this problem before designing.&lt;/p&gt;
 
 &lt;p&gt;​&lt;strong&gt;Collaborating with a partner on a project is extremely rewarding.&lt;/strong&gt;
-I had so much fun jamming on ideas with Raymond over the last 12 weeks. We spent evenings and weekends on Google Meet and collaborating on our Figma board (that was always covered in comments). Overall, I’m very proud of the work that we accomplished together.&lt;/p&gt;
+I had so much fun jamming on ideas with Raymond over the last 12 weeks. It was an excellent learning experience for us while we TAd together.&lt;/p&gt;
 
 &lt;p&gt;If you want to learn more about this project, please feel free to reach out to me on LinkedIn! Cheers, and thanks for reading 😊&lt;/p&gt;
 
@@ -239,32 +286,38 @@ I had so much fun jamming on ideas with Raymond over the last 12 weeks. We spent
         
             <item>
                 <title>Zoom Video Communications</title>
-                <description>&lt;p&gt;Zoom is a cloud-based video conferencing platform that allows people to connect virtually. As a recognized leader in its market, individuals, businesses, and organizations use this platform globally. Currently, the app has over 100 Million downloads and a 3.7/5⭐ rating in the Google Play Store*.&lt;/p&gt;
+                <description>&lt;p&gt;Zoom is a cloud-based video conferencing platform that allows people to connect virtually. As a recognized leader in its market, individuals, businesses, and organizations use this platform globally. In 2020 when this project was done, the app had over 100 million downloads and a 3.7/5⭐ rating in the Google Play Store.&lt;/p&gt;
 
 &lt;p&gt;This case study offers a heuristic evaluation and proposed redesign for the Zoom mobile app, focusing on the ‘Start a Call’ task. It was a team effort where I had the pleasure of partnering up with a fellow UX designer, Tiffany Yap.&lt;/p&gt;
 
-&lt;p&gt;*The apps number of downloads and rating may have changed since completing this project in 2020&lt;/p&gt;
-
-&lt;p&gt;Project Type: Academic&lt;/p&gt;
-
-&lt;p&gt;Team Member: Tiffany Yap&lt;/p&gt;
-
-&lt;p&gt;​Timeline: 3 weeks&lt;/p&gt;
+&lt;p&gt;**Project Type:** Academic&lt;/p&gt;
+&lt;p&gt;**Timeline:** 3 weeks&lt;/p&gt;
 
 &lt;h2 id=&quot;why-redesign-zoom&quot;&gt;Why redesign Zoom?&lt;/h2&gt;
 &lt;p&gt;With the pandemic shifting much of education, work, and social gatherings online, platforms such as Zoom, GoToMeeting, and Microsoft Teams have boomed in popularity. For myself, this shift meant going from dressing up and seeing people face-to-face to attending meetings in my PJs and dreaming of being in Hawaii with my virtual background of waves crashing behind me.&lt;/p&gt;
 
 &lt;p&gt;Tiffany and I shared a love-hate relationship with Zoom as we used it both for university and our UX Design program. We saw opportunities within it where even slight tweaks could enhance the user experience. Further recognizing the business consideration that video-conferencing technologies are increasing in popularity, we wondered how we could go about giving Zoom the facelift it needed to stay ahead?&lt;/p&gt;
 
-&lt;p&gt;When scrolling through Zoom’s reviews on the Google Play Store, we realized that we weren’t alone with these feelings. Here’s what some other users had to say about the app:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/zoom-meme.jpg&quot; alt=&quot;Meme&quot; /&gt;
+&lt;em&gt;Meme by @HlessHman&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;When scrolling through Zoom’s reviews on the Play Store, we realized that we weren’t alone with these feelings. Here’s what some other users had to say about the app:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/zoom-reviews.jpg&quot; alt=&quot;Reviews&quot; /&gt;
+&lt;em&gt;Zoom Google Play Store Reviews&lt;/em&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;design-process&quot;&gt;Design process&lt;/h2&gt;
 &lt;p&gt;This project was completed in 2 parts with the heuristic evaluation done first before the redesign.&lt;/p&gt;
 
 &lt;p&gt;The task flow of ‘starting a call’ followed the scenario of our user Tiffany wanting to start a call with her sister who would like to share her screen during the call. The current flow of how Tiffany would accomplish this task can be seen below.&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;/images/zoom-currentflow.jpg&quot; alt=&quot;Task Flow&quot; /&gt;
+&lt;em&gt;Current Start a Call Task Flow&lt;/em&gt;&lt;/p&gt;
 &lt;h3 id=&quot;heuristic-evaluation&quot;&gt;Heuristic evaluation&lt;/h3&gt;
-&lt;p&gt;We used Nielsen Norman Groups 10 Usability Heuristics to evaluate the usability of the ‘setting up a call’ task flow. Each heuristic was then rated using a scale of 0-4, 4 being a usability catastrophe&lt;/p&gt;
+&lt;p&gt;We used 9 of Nielsen Norman’s 10 Usability Heuristics to evaluate the usability of the ‘setting up a call’ task flow. Each heuristic was then rated using a scale of 0-4, 4 being a usability catastrophe.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/zoom-heuristics.jpg&quot; alt=&quot;Task Flow&quot; /&gt;
+&lt;em&gt;Heuristics and severity scale&lt;/em&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Heuristic evaluation involves having a small set of evaluators examine the interface and judge its compliance with recognized usability principles&lt;/p&gt;
@@ -272,20 +325,51 @@ I had so much fun jamming on ideas with Raymond over the last 12 weeks. We spent
   &lt;p&gt;&lt;cite&gt;– Jakob Nielsen&lt;/cite&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;div class=&quot;gallery-box&quot;&gt;
+  &lt;div class=&quot;gallery&quot;&gt;
+    &lt;img src=&quot;/images/zoom-1.jpg&quot; loading=&quot;lazy&quot; /&gt;
+    &lt;img src=&quot;/images/zoom-2.jpg&quot; loading=&quot;lazy&quot; /&gt;
+    &lt;img src=&quot;/images/zoom-3.jpg&quot; loading=&quot;lazy&quot; /&gt;
+    &lt;img src=&quot;/images/zoom-4.jpg&quot; loading=&quot;lazy&quot; /&gt;
+    &lt;img src=&quot;/images/zoom-5.jpg&quot; loading=&quot;lazy&quot; /&gt;
+    &lt;img src=&quot;/images/zoom-6.jpg&quot; loading=&quot;lazy&quot; /&gt;
+    &lt;img src=&quot;/images/zoom-7.jpg&quot; loading=&quot;lazy&quot; /&gt;
+  &lt;/div&gt;
+  &lt;em&gt;Gallery of heuristic evaluation&lt;/em&gt;
+&lt;/div&gt;
+
 &lt;h3 id=&quot;redesign&quot;&gt;Redesign&lt;/h3&gt;
 &lt;p&gt;Tiffany and I presented our heuristic evaluation to educators and peers and were given the green light to move forward with the redesign. To help us decide what to tackle first, we created a prioritization matrix that looked at the impact versus effort to implement each design recommendation. Given our project time constraint, we tackled high impact changes first before moving onto changes that didn’t add much value to the user.&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;/images/zoom-effortvimpact.jpg&quot; alt=&quot;Effort vs. Impact&quot; /&gt;
+&lt;em&gt;Redesign - effort vs. impact&lt;/em&gt;&lt;/p&gt;
+
 &lt;p&gt;Next, we created a style guide as we wanted our redesign to closely match the app. During this process we noticed that Zoom uses many different shades of greys and blues throughout the app, some of which look very similar to each other. The app also didn’t seem to follow a grid or layout system. Since this wasn’t our focus for the project we decided to keep these as is and recommend for future redesigns to consider simplifying the colour palette and add in a grid or layout system to create a more cohesive design.&lt;/p&gt;
 
-&lt;h3 id=&quot;result&quot;&gt;Result&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/zoom-styleguide.jpg&quot; alt=&quot;Style Guide&quot; /&gt;
+&lt;em&gt;Redesign - effort vs. impact&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&quot;result&quot;&gt;Result&lt;/h2&gt;
 
+&lt;p&gt;&lt;img src=&quot;/images/zoom-redesign1.jpg&quot; alt=&quot;Redesign&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/zoom-redesign2.jpg&quot; alt=&quot;Redesign&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/zoom-redesign3.jpg&quot; alt=&quot;Redesign&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/zoom-redesign4.jpg&quot; alt=&quot;Redesign&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/zoom-redesign5.jpg&quot; alt=&quot;Redesign&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/zoom-redesign6.jpg&quot; alt=&quot;Redesign&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/zoom-redesign7.jpg&quot; alt=&quot;Redesign&quot; /&gt;&lt;/p&gt;
 &lt;h2 id=&quot;learnings&quot;&gt;Learnings&lt;/h2&gt;
 
 &lt;p&gt;After 3 weeks of late night chats and working away on Figma, Tiffany and I presented our Zoom redesign to educators and peers where we received very positive reviews.&lt;/p&gt;
 
-&lt;p&gt;Overall, this redesign process was an excellent learning opportunity that taught me how to critique the usability of a design based on pre-established principles. Using Nielsen Norman Groups Usability Heuristics, I learned how to objectively evaluate Zoom’s mobile app in order to find opportunities to create a more usable product.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Excellent learning opportunity that taught me how to critique the usability of a design based on pre-established principles.&lt;/strong&gt; Using NN’s Heuristics, I learned how to objectively evaluate Zoom’s mobile app in order to find opportunities to create a more usable product.&lt;/p&gt;
 
-&lt;p&gt;In addition to this, I also learned the importance of creating and utilizing a design system. Before starting our redesign, Tiffany and I prepared a document of colours, typography, icons, and other elements that helped us create a cohesive design.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I learned the importance of creating and utilizing a design system.&lt;/strong&gt; Before starting our redesign, Tiffany and I prepared a document of colours, typography, icons, and other elements that helped us design more effiently and be cohesive.&lt;/p&gt;
 
 &lt;p&gt;If you want to learn more about this project, please feel free to reach out to me on LinkedIn! Cheers, and thanks for reading 😊&lt;/p&gt;
 </description>
@@ -293,11 +377,7 @@ I had so much fun jamming on ideas with Raymond over the last 12 weeks. We spent
                 <link>http://localhost:4000/blog/zoom</link>
                 <guid isPermaLink="true">http://localhost:4000/blog/zoom</guid>
                 
-                <category>case study</category>
-                
-                <category>heuristics</category>
-                
-                <category>redesign</category>
+                <category>academic project</category>
                 
                 
             </item>
