@@ -4,7 +4,7 @@ description: Making it easy for Visier users to send an analysis by email, so th
 category: UX Design
 client: Visier
 role: UX Designer
-image: '/images/visier-cover.jpg'
+image: '/images/visier-cover.png'
 image_caption: 'Vision for send analysis by email'
 ---
 
@@ -16,7 +16,7 @@ During my internship, I worked on improving how Visier users send an analysis by
   <div class="gallery">
     <img src="/images/visier-old.jpg" loading="lazy" alt="Visier-email">
   </div>
-  <em>Photo of original send analysis by email experience</a></em>
+  <em>Original send analysis by email experience</a></em>
 </div>
 
 **Goals**

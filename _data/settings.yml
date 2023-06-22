@@ -25,7 +25,7 @@ menu__settings:
 author:
   author__name: Vanessa Fayad
   author__bio: I'd love to connect with you! Feel free to say hello!
-  author__avatar: '/images/profile-image.jpg'
+  author__avatar: '/images/arlo-portrait.png'
 
 social:
 - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/vungerer/"}
@@ -40,9 +40,9 @@ social:
 # Hero Settings
 hero:
   enable: true
-  hero__title: Hi, I'm Vanessa
-  hero__description: I'm a user experience designer based in Vancouver, CA
-  hero__image: "/images/home-cover.jpg"
+  hero__title: Hi, I'm Vanessa :wave:
+  hero__description: I'm a user experience designer based in Vancouver, CA.
+  hero__image: "/images/home-cover1.png'
 
 
 #-------------------------------
