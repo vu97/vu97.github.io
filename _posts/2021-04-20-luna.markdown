@@ -11,9 +11,9 @@ tags: [side project]
 
 Luna is an idea for a native iOS app that helps people who experience stress and anxiety sleep better at night by improving their mental well being. 
 
-<p>**Team:** Raymond Chou</p>
-<p>**Tools:** Figma, InVision, Otter.ai, Google Drive</p>
-<p>**Timeline:** Three months</p>
+**Team:** Raymond Chou <br>
+**Tools:** Figma, InVision, Otter.ai, Google Drive <br>
+**Timeline:** 3 months
 
 ## Why Luna?
 Sleep-deprived and filled with copious amounts of coffee ☕ - that’s how Raymond and I finished our intense UX boot camp. While TAing for the following cohort, we wanted to keep our UX skills sharp and decided to tackle a common interest in the problem space of sleep deprivation. We were curious to learn why we and so many others don’t get the recommended 8 hours of sleep each night. Was there an opportunity for design intervention?

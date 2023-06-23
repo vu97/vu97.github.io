@@ -20,7 +20,7 @@ Us consumers were pretty fortunate though, since many options suddenly became av
 
 My family has shopped at Real Canadian Superstore for as long as I can remember. When I decided to make my first online grocery order, I chose to buy from a store I knew well. While I was able to accomplish my task of ordering groceries, I noticed so many opportunities within the process for design intervention that would have allowed for a much smoother buying process. This post aims to evaluate the product page specifically as I experienced the most friction here.
 
-===
+---
  
 ## Evaluating user experience opportunities at the Real Canadian Superstore
 
@@ -75,7 +75,7 @@ My family has shopped at Real Canadian Superstore for as long as I can remember.
   <em>Example of current Superstore price filter and search</a></em>
 </div>
 
-===
+---
 
 ## Redesign
 

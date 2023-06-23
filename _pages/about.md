@@ -25,11 +25,11 @@ Currently, I'm seeking new work opportunities!
 
 Some of my other passions are: 
 
-**Spending time with my dog** 
+**Spending time with my dog** <br>
 My little man, Arlo, is a toy poodle that lives for attention. I love having a companion who sleeps on my feet while I design and reminds me to go on much-needed walks.
 
-**Trying new foods** 
+**Trying new foods** <br>
 Much of my life revolves around food and what or where I want to eat next. I travel to eat and get very excited when sushi is an option. I also like to be experimental in the kitchen and try to make food I would get at a restaurant at home.
 
-**Being active** 
+**Being active** <br>
 I get my energy from Orangetheory classes and ice skating. I love pushing myself when I'm exercising and being able to track my performance on Strava or the OT app. 

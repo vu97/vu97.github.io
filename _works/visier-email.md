@@ -1,5 +1,5 @@
 ---
-title: Visier - Sending an Analysis by Email 
+title: Visier - Email Analysis
 description: Making it easy for Visier users to send an analysis by email, so that more insights are pushed.
 category: UX Design
 client: Visier

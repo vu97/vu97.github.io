@@ -13,8 +13,8 @@ Zoom is a cloud-based video conferencing platform that allows people to connect 
 
 This case study offers a heuristic evaluation and proposed redesign for the Zoom mobile app, focusing on the 'Start a Call' task. It was a team effort where I had the pleasure of partnering up with a fellow UX designer, Tiffany Yap.
 
-<p>**Project Type:** Academic</p>
-<p>**Timeline:** 3 weeks</p>
+**Project Type:** Academic <br>
+**Timeline:** 3 weeks
 
 ## Why redesign Zoom?
 With the pandemic shifting much of education, work, and social gatherings online, platforms such as Zoom, GoToMeeting, and Microsoft Teams have boomed in popularity. For myself, this shift meant going from dressing up and seeing people face-to-face to attending meetings in my PJs and dreaming of being in Hawaii with my virtual background of waves crashing behind me. 

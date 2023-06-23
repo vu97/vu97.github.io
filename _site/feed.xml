@@ -5,8 +5,8 @@
         <description>User Experience Design Portfolio</description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 21 Jun 2023 23:13:38 -0700</pubDate>
-        <lastBuildDate>Wed, 21 Jun 2023 23:13:38 -0700</lastBuildDate>
+        <pubDate>Fri, 23 Jun 2023 16:24:08 -0700</pubDate>
+        <lastBuildDate>Fri, 23 Jun 2023 16:24:08 -0700</lastBuildDate>
         <generator>Jekyll v4.3.2</generator>
         
             <item>
@@ -23,7 +23,7 @@
 
 &lt;p&gt;My family has shopped at Real Canadian Superstore for as long as I can remember. When I decided to make my first online grocery order, I chose to buy from a store I knew well. While I was able to accomplish my task of ordering groceries, I noticed so many opportunities within the process for design intervention that would have allowed for a much smoother buying process. This post aims to evaluate the product page specifically as I experienced the most friction here.&lt;/p&gt;
 
-&lt;p&gt;===&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&quot;evaluating-user-experience-opportunities-at-the-real-canadian-superstore&quot;&gt;Evaluating user experience opportunities at the Real Canadian Superstore&lt;/h2&gt;
 
@@ -78,7 +78,7 @@
   &lt;em&gt;Example of current Superstore price filter and search&amp;lt;/a&amp;gt;&lt;/em&gt;
 &lt;/div&gt;
 
-&lt;p&gt;===&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&quot;redesign&quot;&gt;Redesign&lt;/h2&gt;
 
@@ -106,9 +106,9 @@
                 <title>Luna</title>
                 <description>&lt;p&gt;Luna is an idea for a native iOS app that helps people who experience stress and anxiety sleep better at night by improving their mental well being.&lt;/p&gt;
 
-&lt;p&gt;**Team:** Raymond Chou&lt;/p&gt;
-&lt;p&gt;**Tools:** Figma, InVision, Otter.ai, Google Drive&lt;/p&gt;
-&lt;p&gt;**Timeline:** Three months&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Team:&lt;/strong&gt; Raymond Chou &lt;br /&gt;
+&lt;strong&gt;Tools:&lt;/strong&gt; Figma, InVision, Otter.ai, Google Drive &lt;br /&gt;
+&lt;strong&gt;Timeline:&lt;/strong&gt; 3 months&lt;/p&gt;
 
 &lt;h2 id=&quot;why-luna&quot;&gt;Why Luna?&lt;/h2&gt;
 &lt;p&gt;Sleep-deprived and filled with copious amounts of coffee ☕ - that’s how Raymond and I finished our intense UX boot camp. While TAing for the following cohort, we wanted to keep our UX skills sharp and decided to tackle a common interest in the problem space of sleep deprivation. We were curious to learn why we and so many others don’t get the recommended 8 hours of sleep each night. Was there an opportunity for design intervention?&lt;/p&gt;
@@ -290,8 +290,8 @@ I had so much fun jamming on ideas with Raymond over the last 12 weeks. It was a
 
 &lt;p&gt;This case study offers a heuristic evaluation and proposed redesign for the Zoom mobile app, focusing on the ‘Start a Call’ task. It was a team effort where I had the pleasure of partnering up with a fellow UX designer, Tiffany Yap.&lt;/p&gt;
 
-&lt;p&gt;**Project Type:** Academic&lt;/p&gt;
-&lt;p&gt;**Timeline:** 3 weeks&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Project Type:&lt;/strong&gt; Academic &lt;br /&gt;
+&lt;strong&gt;Timeline:&lt;/strong&gt; 3 weeks&lt;/p&gt;
 
 &lt;h2 id=&quot;why-redesign-zoom&quot;&gt;Why redesign Zoom?&lt;/h2&gt;
 &lt;p&gt;With the pandemic shifting much of education, work, and social gatherings online, platforms such as Zoom, GoToMeeting, and Microsoft Teams have boomed in popularity. For myself, this shift meant going from dressing up and seeing people face-to-face to attending meetings in my PJs and dreaming of being in Hawaii with my virtual background of waves crashing behind me.&lt;/p&gt;
