@@ -8,8 +8,16 @@ image_caption: 'Photo of Luna ios App'
 tags: [side project]
 ---
 
+## Table of Contents
+1. [Empathize](#empathize)
+2. [Define](#define)
+3. [Ideate](#ideate)
+4. [Prototype and test](#prototype-and-test)
+5. [Reflect](#reflect)
 
-Luna is an idea for a native iOS app that helps people who experience stress and anxiety sleep better at night by improving their mental well being. 
+---
+
+> Luna is an idea for a native iOS app that helps people who experience stress and anxiety sleep better at night by improving their mental well being. 
 
 **Team:** Raymond Chou <br>
 **Tools:** Figma, InVision, Otter.ai, Google Drive <br>
@@ -73,7 +81,7 @@ Here, we brainstormed the screens, flow, call-to-action buttons, and system deci
 ![Task Flow]({{site.baseurl}}/images/luna-task.jpg)
 *Task flow diagram*
 
-## IDEATE
+## Ideate
 ### Sought Inspiration
 Raymond and I looked at competitor and other apps for inspiration. We set up a collaborative board and added categories for various screens and elements with the goal of creating an experience that users are familiar with.
 
@@ -111,7 +119,7 @@ Comfortaa, a rounded geometric sans-serif font, was chosen as it evokes comfort 
 ![Logo]({{site.baseurl}}/images/luna-logo.jpg)
 *Logo*
 
-## Prototype & test
+## Prototype and test
 ### High fidelity
 It took multiple iterations to achieve the desired look and feel of Luna.
 
@@ -152,7 +160,7 @@ After multiple rounds of iterating and testing, we felt that we finished what we
 
 ***
 
-## REFLECT
+## Reflect
 **Start with a paper prototype or card sort**
 During usability testing, we learned that people didn't understand why a sleep app had a digital health feature. Users also questioned what digital health was and thought that the goal-setting workflow was an alarm clock. In hindsight, starting with a paper prototype or card sort could have been a fast and easy way to learn about this problem before designing.
 
@@ -164,8 +172,8 @@ If you want to learn more about this project, please feel free to reach out to m
 *** 
 
 Works Cited
-1. Calm (2020). About. Retrieved from https://www.calm.com/blog/about?gclid=CjwKCAiAi_D_BRApEiwASslbJ36PrR3a1eIAluYnsCbrQP-dLBdj_tTL4zAOPvClt-w8MvqEwjGUTxoCH9kQAvD_BwE
-2. Government of Canada (2020). Are Canadian adults getting enough sleep? Retrieved from https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-adults-getting-enough-sleep-infographic.html
-3. Headspace (2020). About Headspace. Retrieved from https://www.headspace.com/about-us
-4. Healthline (Sept 23, 2020). Headspace vs. Calm: How Do These Meditation Apps Compare? Retrieved from https://www.healthline.com/health/headspace-vs-calm
-5. PR Newswire (May 15, 2020). Sleep Aids Market Worth $114.15 Billion by 2025: Exclusive Report by Infinium Global Research Retrieved from https://www.prnewswire.com/news-releases/sleep-aids-market-worth-114-15-billion-by-2025-exclusive-report-by-infinium-global-research-301060012.html
+1. Calm (2020). About. [Link to site](https://www.calm.com/blog/about?gclid=CjwKCAiAi_D_BRApEiwASslbJ36PrR3a1eIAluYnsCbrQP-dLBdj_tTL4zAOPvClt-w8MvqEwjGUTxoCH9kQAvD_BwE)
+2. Government of Canada (2020). Are Canadian adults getting enough sleep? [Link to article](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-adults-getting-enough-sleep-infographic.html)
+3. Headspace (2020). About Headspace. [Link to site](https://www.headspace.com/about-us)
+4. Healthline (Sept 23, 2020). Headspace vs. Calm: How Do These Meditation Apps Compare? [Link to site](https://www.healthline.com/health/headspace-vs-calm)
+5. PR Newswire (May 15, 2020). Sleep Aids Market Worth $114.15 Billion by 2025: Exclusive Report by Infinium Global Research. [Link to report](https://www.prnewswire.com/news-releases/sleep-aids-market-worth-114-15-billion-by-2025-exclusive-report-by-infinium-global-research-301060012.html)

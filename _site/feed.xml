@@ -5,8 +5,8 @@
         <description>User Experience Design Portfolio</description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 23 Jun 2023 16:24:08 -0700</pubDate>
-        <lastBuildDate>Fri, 23 Jun 2023 16:24:08 -0700</lastBuildDate>
+        <pubDate>Fri, 23 Jun 2023 17:48:29 -0700</pubDate>
+        <lastBuildDate>Fri, 23 Jun 2023 17:48:29 -0700</lastBuildDate>
         <generator>Jekyll v4.3.2</generator>
         
             <item>
@@ -104,7 +104,20 @@
         
             <item>
                 <title>Luna</title>
-                <description>&lt;p&gt;Luna is an idea for a native iOS app that helps people who experience stress and anxiety sleep better at night by improving their mental well being.&lt;/p&gt;
+                <description>&lt;h2 id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;#empathize&quot;&gt;Empathize&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#define&quot;&gt;Define&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#ideate&quot;&gt;Ideate&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#prototype-and-test&quot;&gt;Prototype and test&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#reflect&quot;&gt;Reflect&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Luna is an idea for a native iOS app that helps people who experience stress and anxiety sleep better at night by improving their mental well being.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;&lt;strong&gt;Team:&lt;/strong&gt; Raymond Chou &lt;br /&gt;
 &lt;strong&gt;Tools:&lt;/strong&gt; Figma, InVision, Otter.ai, Google Drive &lt;br /&gt;
@@ -174,7 +187,7 @@
 &lt;p&gt;&lt;img src=&quot;/images/luna-task.jpg&quot; alt=&quot;Task Flow&quot; /&gt;
 &lt;em&gt;Task flow diagram&lt;/em&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;ideate&quot;&gt;IDEATE&lt;/h2&gt;
+&lt;h2 id=&quot;ideate&quot;&gt;Ideate&lt;/h2&gt;
 &lt;h3 id=&quot;sought-inspiration&quot;&gt;Sought Inspiration&lt;/h3&gt;
 &lt;p&gt;Raymond and I looked at competitor and other apps for inspiration. We set up a collaborative board and added categories for various screens and elements with the goal of creating an experience that users are familiar with.&lt;/p&gt;
 
@@ -212,7 +225,7 @@
 &lt;p&gt;&lt;img src=&quot;/images/luna-logo.jpg&quot; alt=&quot;Logo&quot; /&gt;
 &lt;em&gt;Logo&lt;/em&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;prototype--test&quot;&gt;Prototype &amp;amp; test&lt;/h2&gt;
+&lt;h2 id=&quot;prototype-and-test&quot;&gt;Prototype and test&lt;/h2&gt;
 &lt;h3 id=&quot;high-fidelity&quot;&gt;High fidelity&lt;/h3&gt;
 &lt;p&gt;It took multiple iterations to achieve the desired look and feel of Luna.&lt;/p&gt;
 
@@ -255,7 +268,7 @@
 
 &lt;hr /&gt;
 
-&lt;h2 id=&quot;reflect&quot;&gt;REFLECT&lt;/h2&gt;
+&lt;h2 id=&quot;reflect&quot;&gt;Reflect&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Start with a paper prototype or card sort&lt;/strong&gt;
 During usability testing, we learned that people didn’t understand why a sleep app had a digital health feature. Users also questioned what digital health was and thought that the goal-setting workflow was an alarm clock. In hindsight, starting with a paper prototype or card sort could have been a fast and easy way to learn about this problem before designing.&lt;/p&gt;
 
@@ -268,11 +281,11 @@ I had so much fun jamming on ideas with Raymond over the last 12 weeks. It was a
 
 &lt;p&gt;Works Cited&lt;/p&gt;
 &lt;ol&gt;
-  &lt;li&gt;Calm (2020). About. Retrieved from https://www.calm.com/blog/about?gclid=CjwKCAiAi_D_BRApEiwASslbJ36PrR3a1eIAluYnsCbrQP-dLBdj_tTL4zAOPvClt-w8MvqEwjGUTxoCH9kQAvD_BwE&lt;/li&gt;
-  &lt;li&gt;Government of Canada (2020). Are Canadian adults getting enough sleep? Retrieved from https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-adults-getting-enough-sleep-infographic.html&lt;/li&gt;
-  &lt;li&gt;Headspace (2020). About Headspace. Retrieved from https://www.headspace.com/about-us&lt;/li&gt;
-  &lt;li&gt;Healthline (Sept 23, 2020). Headspace vs. Calm: How Do These Meditation Apps Compare? Retrieved from https://www.healthline.com/health/headspace-vs-calm&lt;/li&gt;
-  &lt;li&gt;PR Newswire (May 15, 2020). Sleep Aids Market Worth $114.15 Billion by 2025: Exclusive Report by Infinium Global Research Retrieved from https://www.prnewswire.com/news-releases/sleep-aids-market-worth-114-15-billion-by-2025-exclusive-report-by-infinium-global-research-301060012.html&lt;/li&gt;
+  &lt;li&gt;Calm (2020). About. &lt;a href=&quot;https://www.calm.com/blog/about?gclid=CjwKCAiAi_D_BRApEiwASslbJ36PrR3a1eIAluYnsCbrQP-dLBdj_tTL4zAOPvClt-w8MvqEwjGUTxoCH9kQAvD_BwE&quot;&gt;Link to site&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Government of Canada (2020). Are Canadian adults getting enough sleep? &lt;a href=&quot;https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-adults-getting-enough-sleep-infographic.html&quot;&gt;Link to article&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Headspace (2020). About Headspace. &lt;a href=&quot;https://www.headspace.com/about-us&quot;&gt;Link to site&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Healthline (Sept 23, 2020). Headspace vs. Calm: How Do These Meditation Apps Compare? &lt;a href=&quot;https://www.healthline.com/health/headspace-vs-calm&quot;&gt;Link to site&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;PR Newswire (May 15, 2020). Sleep Aids Market Worth $114.15 Billion by 2025: Exclusive Report by Infinium Global Research. &lt;a href=&quot;https://www.prnewswire.com/news-releases/sleep-aids-market-worth-114-15-billion-by-2025-exclusive-report-by-infinium-global-research-301060012.html&quot;&gt;Link to report&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
                 <pubDate>Wed, 15 Jan 2020 00:00:00 -0800</pubDate>
@@ -286,7 +299,17 @@ I had so much fun jamming on ideas with Raymond over the last 12 weeks. It was a
         
             <item>
                 <title>Zoom Video Communications</title>
-                <description>&lt;p&gt;Zoom is a cloud-based video conferencing platform that allows people to connect virtually. As a recognized leader in its market, individuals, businesses, and organizations use this platform globally. In 2020 when this project was done, the app had over 100 million downloads and a 3.7/5⭐ rating in the Google Play Store.&lt;/p&gt;
+                <description>&lt;h2 id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;#why-redesign-zoom&quot;&gt;Why redesign Zoom?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#design-process&quot;&gt;Design process&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#result&quot;&gt;Result&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#reflection&quot;&gt;Reflection&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Zoom is a cloud-based video conferencing platform that allows people to connect virtually. As a recognized leader in its market, individuals, businesses, and organizations use this platform globally. In 2020 when this project was done, the app had over 100 million downloads and a 3.7/5⭐ rating in the Google Play Store.&lt;/p&gt;
 
 &lt;p&gt;This case study offers a heuristic evaluation and proposed redesign for the Zoom mobile app, focusing on the ‘Start a Call’ task. It was a team effort where I had the pleasure of partnering up with a fellow UX designer, Tiffany Yap.&lt;/p&gt;
 
@@ -363,7 +386,8 @@ I had so much fun jamming on ideas with Raymond over the last 12 weeks. It was a
 &lt;p&gt;&lt;img src=&quot;/images/zoom-redesign6.jpg&quot; alt=&quot;Redesign&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/zoom-redesign7.jpg&quot; alt=&quot;Redesign&quot; /&gt;&lt;/p&gt;
-&lt;h2 id=&quot;learnings&quot;&gt;Learnings&lt;/h2&gt;
+
+&lt;h2 id=&quot;reflection&quot;&gt;Reflection&lt;/h2&gt;
 
 &lt;p&gt;After 3 weeks of late night chats and working away on Figma, Tiffany and I presented our Zoom redesign to educators and peers where we received very positive reviews.&lt;/p&gt;
 
