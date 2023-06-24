@@ -8,6 +8,13 @@ image_caption: 'Photo of our redesign'
 tags: [academic project]
 ---
 
+## Table of Contents
+1. [Why redesign Zoom?](#why-redesign-zoom)
+2. [Design process](#design-process)
+3. [Result](#result)
+4. [Reflection](#reflection)
+
+---
 
 Zoom is a cloud-based video conferencing platform that allows people to connect virtually. As a recognized leader in its market, individuals, businesses, and organizations use this platform globally. In 2020 when this project was done, the app had over 100 million downloads and a 3.7/5⭐ rating in the Google Play Store.
 
@@ -84,7 +91,8 @@ Next, we created a style guide as we wanted our redesign to closely match the ap
 ![Redesign]({{site.baseurl}}/images/zoom-redesign6.jpg)
 
 ![Redesign]({{site.baseurl}}/images/zoom-redesign7.jpg)
-## Learnings
+
+## Reflection
 
 After 3 weeks of late night chats and working away on Figma, Tiffany and I presented our Zoom redesign to educators and peers where we received very positive reviews. 
 
