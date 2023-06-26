@@ -2,6 +2,7 @@
 title: Visier - Email Analysis
 description: Making it easy for Visier users to send an analysis by email, so that more insights are pushed.
 category: UX Design
+date: 2022/04/01
 client: Visier
 role: UX Designer
 image: '/images/visier-cover.png'
