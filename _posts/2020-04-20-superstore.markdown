@@ -38,7 +38,7 @@ My family has shopped at Real Canadian Superstore for as long as I can remember.
   <div class="gallery">
     <img src="/images/superstore-1.jpg" loading="lazy" alt="example">
   </div>
-  <em>Example of current Superstore product page ad and breadcrumbs</a></em>
+  <em>Example of current Superstore product page ad and breadcrumbs</em>
 </div>
 
 **Problem:** Opportunity to streamline add to cart process by combining the number of each item with the initial add to cart.
@@ -55,7 +55,7 @@ My family has shopped at Real Canadian Superstore for as long as I can remember.
   <div class="gallery">
     <img src="/images/superstore-2.jpg" loading="lazy" alt="example">
   </div>
-  <em>Example of current Superstore product page items and design</a></em>
+  <em>Example of current Superstore product page items and design</em>
 </div>
 
 **Problem:** Selecting price range bins is simple, however it can become challenging for users who want to view products across multiple selections.
@@ -72,7 +72,7 @@ My family has shopped at Real Canadian Superstore for as long as I can remember.
   <div class="gallery">
     <img src="/images/superstore-3.jpg" loading="lazy" alt="example">
   </div>
-  <em>Example of current Superstore price filter and search</a></em>
+  <em>Example of current Superstore price filter and search</em>
 </div>
 
 ---
@@ -85,7 +85,7 @@ Finally, it was time to redesign the page. In addition to making updates based o
   <div class="gallery">
     <img src="/images/superstore-redesign.jpg" loading="lazy" alt="redesign">
   </div>
-  <em>Redesigned Superstore product page</a></em>
+  <em>Redesigned Superstore product page</em>
 </div>
 
 If you want to learn more about this redesign, please feel free to reach out to me on LinkedIn! Cheers, and thanks for reading 😊

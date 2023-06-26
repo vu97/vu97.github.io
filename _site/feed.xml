@@ -5,8 +5,8 @@
         <description>User Experience Design Portfolio</description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 26 Jun 2023 10:21:59 -0700</pubDate>
-        <lastBuildDate>Mon, 26 Jun 2023 10:21:59 -0700</lastBuildDate>
+        <pubDate>Mon, 26 Jun 2023 10:40:56 -0700</pubDate>
+        <lastBuildDate>Mon, 26 Jun 2023 10:40:56 -0700</lastBuildDate>
         <generator>Jekyll v4.3.2</generator>
         
             <item>
@@ -41,7 +41,7 @@
   &lt;div class=&quot;gallery&quot;&gt;
     &lt;img src=&quot;/images/superstore-1.jpg&quot; loading=&quot;lazy&quot; alt=&quot;example&quot; /&gt;
   &lt;/div&gt;
-  &lt;em&gt;Example of current Superstore product page ad and breadcrumbs&amp;lt;/a&amp;gt;&lt;/em&gt;
+  &lt;em&gt;Example of current Superstore product page ad and breadcrumbs&lt;/em&gt;
 &lt;/div&gt;
 
 &lt;p&gt;&lt;strong&gt;Problem:&lt;/strong&gt; Opportunity to streamline add to cart process by combining the number of each item with the initial add to cart.
@@ -58,7 +58,7 @@
   &lt;div class=&quot;gallery&quot;&gt;
     &lt;img src=&quot;/images/superstore-2.jpg&quot; loading=&quot;lazy&quot; alt=&quot;example&quot; /&gt;
   &lt;/div&gt;
-  &lt;em&gt;Example of current Superstore product page items and design&amp;lt;/a&amp;gt;&lt;/em&gt;
+  &lt;em&gt;Example of current Superstore product page items and design&lt;/em&gt;
 &lt;/div&gt;
 
 &lt;p&gt;&lt;strong&gt;Problem:&lt;/strong&gt; Selecting price range bins is simple, however it can become challenging for users who want to view products across multiple selections.
@@ -75,7 +75,7 @@
   &lt;div class=&quot;gallery&quot;&gt;
     &lt;img src=&quot;/images/superstore-3.jpg&quot; loading=&quot;lazy&quot; alt=&quot;example&quot; /&gt;
   &lt;/div&gt;
-  &lt;em&gt;Example of current Superstore price filter and search&amp;lt;/a&amp;gt;&lt;/em&gt;
+  &lt;em&gt;Example of current Superstore price filter and search&lt;/em&gt;
 &lt;/div&gt;
 
 &lt;hr /&gt;
@@ -88,7 +88,7 @@
   &lt;div class=&quot;gallery&quot;&gt;
     &lt;img src=&quot;/images/superstore-redesign.jpg&quot; loading=&quot;lazy&quot; alt=&quot;redesign&quot; /&gt;
   &lt;/div&gt;
-  &lt;em&gt;Redesigned Superstore product page&amp;lt;/a&amp;gt;&lt;/em&gt;
+  &lt;em&gt;Redesigned Superstore product page&lt;/em&gt;
 &lt;/div&gt;
 
 &lt;p&gt;If you want to learn more about this redesign, please feel free to reach out to me on LinkedIn! Cheers, and thanks for reading 😊&lt;/p&gt;
