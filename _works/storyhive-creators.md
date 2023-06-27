@@ -10,12 +10,12 @@ image_caption: 'STORYHIVE.com homepage redesign'
 
 ---
 
-The problem was that their website was no longer fit for purpose. It was designed when SH only had a few funding opportunities available, and since expanding its offerings, business and user needs had outgrown the website.  
+The problem was that their website was no longer fit for purpose. It was designed when SH only had a few funding opportunities available, and since expanding its offerings, business and user needs had outgrown the website.  Their 10 year anniversary was also coming up and they were ready for a website refresh!
 
 **My role** <br>
 I was contracted by Untangle UX (a local design agency) to work on two projects:
 1. Visual designer worked on and SH and TELUS Originals service blueprints
-2. User experience design for storhive.com (pre-login)<br>
+2. User experience design for storyhive.com (pre-login)<br>
 Content audit, design exploration, design system, prototyping, handover report
 
 **Team** <br>
@@ -41,7 +41,7 @@ During the design process, I explored the previous research completed and looked
 ---
 
 # User journeys
-When redesigning SH, we had primary, secondary, and tertiary audiences to consider. Interviews with each group gave us an excellent understanding of them. We grouped their objectives, motivations, pain points, and postive moments into specific tasks they would like to accomplish when visiting the website. These tasks gave us a clear idea of what we would be designing. 
+We had primary, secondary, and tertiary audiences to consider when designing. We grouped their objectives, motivations, pain points, and postive moments and formed them into specific tasks each user group would like to accomplish when visiting the website. These tasks gave us a clear idea of what we would focus on when designing. 
 
 <div class="gallery-box">
   <div class="gallery">
@@ -50,7 +50,7 @@ When redesigning SH, we had primary, secondary, and tertiary audiences to consid
   <em>Audiences </em>
 </div>
 
-In this case study, I am focusing on two user journies for content creators and their design recommendations which at the time of writing this have been launched on the SH website. 
+In this case study, I will share two user journies for content creators and their design recommendations which at the time of writing this have been launched on the SH website. 
 
 <br>
 <br> 
@@ -60,7 +60,7 @@ In this case study, I am focusing on two user journies for content creators and 
 <br>
 
 ### Home
-With a majority of visitors interested in funding opportunities, we looked at making this the primary call-to-action on the site. Starting with the homepage, we redesigned the hero (first) section to clearly state what SH offers and include key value propositions based on user research of why creators join the programs to draw visitors in to ‘find a program’. 
+With a majority of visitors interested in funding opportunities, we looked at making this the primary call-to-action on the site. Starting with the homepage, we redesigned the hero section to clearly state what SH offers and include key value propositions based on user research of why creators join the programs to draw visitors in to ‘find a program’. 
 
 <div class="gallery-box">
   <div class="gallery">
@@ -76,9 +76,13 @@ With a majority of visitors interested in funding opportunities, we looked at ma
   <em>Redesign hero for mobile and desktop </em>
 </div>
 
-<p><iframe src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com/proto/K3XnaEDaZEJjtdyp6KhNKn/STORYHIVE-Website?type=design&node-id=410-65900&scaling=contain&page-id=215%3A27442&hide-ui=1" loading="lazy" width="800" height="450" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2F
+www.figma.com/proto/K3XnaEDaZEJjtdyp6KhNKn/STORYHIVE-Website?type=design&node-id=410-65900&scaling=contain&page-id=215%3A27442&disable-default-keyboard-nav=1&hide-ui=1" 
+loading="lazy" width="450" height="450" display="flex" frameborder="0" allowfullscreen></iframe>
+<em>Homepage prototype</em>
+</p>
 
-During testing, we found that creators connected with the new design and instantly knew they were in the right place. 
+During testing, we found that creators expected to see a background image that they could connected with, so we updated the hero to show a 'behind the scenes' shot of a content creator. When the creators saw the final iteration they instantly knew they were in the right place. 
 
 <br>
 
@@ -137,7 +141,11 @@ User testing found that when people visited the page, they were interested in kn
 
 We designed program pages for each of the 7 storyhive programs. These pages required the most amount of copywriting. Due to our time constraint, I wrote and sourced as much information as I could and left text in RED amd space to include imagery/videos with headings to guide writing that would need to be completed after this engagement. 
 
-<p><iframe src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com/proto/K3XnaEDaZEJjtdyp6KhNKn/STORYHIVE-Website?type=design&node-id=279-28530&scaling=contain&page-id=215%3A27442&hide-ui=1" loading="lazy" width="800" height="450" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2F
+www.figma.com/proto/K3XnaEDaZEJjtdyp6KhNKn/STORYHIVE-Website?type=design&node-id=279-28530&scaling=contain&page-id=215%3A27442&disable-default-keyboard-nav=1&hotspot-hints=0&hide-ui=1" 
+loading="lazy" width="450" height="450" display="flex" frameborder="0" allowfullscreen></iframe>
+<em>Programs prototype</em>
+</p>
 
 <br>
 
@@ -151,7 +159,11 @@ The previous website had video content scattered across various pages. A new ‘
   <em>Watch & discover inspiration </em>
 </div>
 
-<p><iframe src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com/proto/K3XnaEDaZEJjtdyp6KhNKn/STORYHIVE-Website?type=design&node-id=314-28825&scaling=contain&page-id=215%3A27442&hide-ui=1" loading="lazy" width="800" height="450" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2F
+www.figma.com/proto/K3XnaEDaZEJjtdyp6KhNKn/STORYHIVE-Website?type=design&node-id=314-28825&scaling=contain&page-id=215%3A27442&disable-default-keyboard-nav=1&hotspot-hints=0&hide-ui=1" 
+loading="lazy" width="450" height="450" display="flex" frameborder="0" allowfullscreen></iframe>
+<em>Watch & discover prototype</em>
+</p>
 
 <br>
 <br> 
@@ -172,7 +184,11 @@ These were common questions that the website was not answering. To help visitors
   <em>About us inspiration </em>
 </div>
 
-<p><iframe src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com/proto/K3XnaEDaZEJjtdyp6KhNKn/STORYHIVE-Website?type=design&node-id=279-28824&scaling=contain&page-id=215%3A27442&hide-ui=1" loading="lazy" width="800" height="450" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2F
+www.figma.com/proto/K3XnaEDaZEJjtdyp6KhNKn/STORYHIVE-Website?type=design&node-id=279-28824&scaling=contain&page-id=215%3A27442&hotspot-hints=0&disable-default-keyboard-nav=1&hide-ui=1" 
+loading="lazy" width="450" height="450" display="flex" frameborder="0" allowfullscreen></iframe>
+<em>About us prototype</em>
+</p>
 
 ---
 
