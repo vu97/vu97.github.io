@@ -131,7 +131,7 @@ User testing found that when people visited the page, they were interested in kn
   <div class="gallery">
     <img src="/images/storyhive-programeligibility.jpg" loading="lazy" alt="Happy and unhappy path">
   </div>
-  <em>Programs location eligibility happy & unhappy path </em>
+  <em>Programs location eligibility happy & unhappy path</em>
 </div>
 
 
@@ -199,7 +199,7 @@ I built a design system of reusable components and their states, such as cards, 
   <div class="gallery">
     <img src="/images/storyhive-designsystem.jpg" loading="lazy" alt="Inspiration">
   </div>
-  <em>Example of some design system assets I created </em>
+  <em>Example of some key screens</em>
 </div>
 
 <br>
