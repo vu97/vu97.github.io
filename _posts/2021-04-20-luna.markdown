@@ -4,7 +4,7 @@ title: Luna
 description: Helping people who experience stress & anxiety sleep better by focusing on their habits and well-being.
 date: 2020-01-15
 image: '/images/luna-cover.jpg'
-image_caption: 'Photo of Luna ios App'
+image_caption: 'Photo of Luna app'
 tags: [side project]
 ---
 

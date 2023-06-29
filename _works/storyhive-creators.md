@@ -78,7 +78,7 @@ With a majority of visitors interested in funding opportunities, we looked at ma
 
 <p><iframe src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2F
 www.figma.com/proto/K3XnaEDaZEJjtdyp6KhNKn/STORYHIVE-Website?type=design&node-id=410-65900&scaling=contain&page-id=215%3A27442&disable-default-keyboard-nav=1&hide-ui=1" 
-loading="lazy" width="450" height="450" display="flex" frameborder="0" allowfullscreen></iframe>
+loading="lazy" width="450" height="450" display="flex" frameborder="0"></iframe>
 <em>Homepage prototype</em>
 </p>
 
@@ -200,8 +200,8 @@ The final website design included some placeholder content including images and 
 
 ✅ Increased TO and SH team awareness of weaknesses and opportunities for optimization, as well as bridges between cross department efforts <br>
 ✅ Future-proofed website that supports business and user needs <br>
-✅ Designed 26 new or redesigned pages, 70+ screens, mobile and desktop <br>
-✅ STORYHIVE.com has made updates to their website based on the design recommendations 
+✅ 26 new / redesigned pages, 70+ screens, mobile and desktop <br>
+✅ storyhive.com implemented design recommendations 
 
 <br>
 
