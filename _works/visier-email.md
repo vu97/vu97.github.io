@@ -1,15 +1,13 @@
 ---
-title: Visier - Email Analysis
-description: Making it easy for Visier users to send an analysis by email, so that more insights are pushed.
+title: Analysis email scheduling
+description: VISIER is a leading cloud-based analytics platform for workforce analytics and workforce planning. With best-practice expertise built-in, Visier empowers HR and business leaders to make immediate, informed decisions to drive better business outcomes.
 category: UX Design
 date: 2022/04/01
 client: Visier
-role: UX Designer
-image: '/images/visier-cover.png'
-image_caption: 'Vision for send analysis by email'
+role: UX designer
+image: '/images/visier-cover.jpg'
+image_caption: 'Vision for send analysis by email experience'
 ---
-
-VISIER is a leading cloud-based analytics platform for workforce analytics and workforce planning. With best-practice expertise built-in, Visier empowers HR and business leaders to make immediate, informed decisions to drive better business outcomes.
 
 During my internship, I worked on improving how Visier users send an analysis by email. A new conditional send feature was recently added to the experience and my task was to assess the user experience and update the visual design to match the latest design system. I worked with my manager, the Solutions UX team, and a developer to iterate, implement, and determine next steps for the experience. 
 

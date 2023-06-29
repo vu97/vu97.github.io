@@ -82,18 +82,18 @@ Here, we brainstormed the screens, flow, call-to-action buttons, and system deci
 *Task flow diagram*
 
 ## Ideate
-### Sought Inspiration
+### Inspiration
 Raymond and I looked at competitor and other apps for inspiration. We set up a collaborative board and added categories for various screens and elements with the goal of creating an experience that users are familiar with.
 
 ![Inspiration]({{site.baseurl}}/images/luna-inspo.jpg)
 *Inspiration*
 
-### Sketched design variations
+### Sketch
 We also sketched multiple variations of each screen from our task flow. We used dot voting to choose which ideas we would digitize. Check out some of our very rough sketches below.
 
 ![Skecth]({{site.baseurl}}/images/luna-sketch.jpg)
 *Sketches*
-### Curated a moodboard
+### Moodboard
 When brainstorming how we wanted Luna to look and feel, we came up with the following mood board that highlights key words such as "calm", "relaxing", "warm", and "welcoming".
 
 ![Mood]({{site.baseurl}}/images/luna-mood.jpg)
@@ -119,7 +119,7 @@ Comfortaa, a rounded geometric sans-serif font, was chosen as it evokes comfort 
 ![Logo]({{site.baseurl}}/images/luna-logo.jpg)
 *Logo*
 
-## Prototype and test
+## Prototype & test
 ### High fidelity
 It took multiple iterations to achieve the desired look and feel of Luna.
 
@@ -167,7 +167,7 @@ During usability testing, we learned that people didn't understand why a sleep a
 ​**Collaborating with a partner on a project is extremely rewarding.**
 I had so much fun jamming on ideas with Raymond over the last 12 weeks. It was an excellent learning experience for us while we TAd together. 
 
-If you want to learn more about this project, please feel free to reach out to me on LinkedIn! Cheers, and thanks for reading 😊
+If you want to learn more about this project, please feel free to [get in touch](https://vanessaungerer97@gmail.com)!
 
 *** 
 
