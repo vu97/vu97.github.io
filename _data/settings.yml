@@ -24,7 +24,7 @@ menu__settings:
 # Author Settings
 author:
   author__name: Vanessa Fayad
-  author__bio: I'd love to connect with you! Feel free to say hello!
+  author__bio: 
   author__avatar: '/images/profile-image.jpg'
 
 social:
@@ -40,15 +40,15 @@ social:
 # Hero Settings
 hero:
   enable: true
-  hero__title: Hi, I'm Vanessa
-  hero__description: I'm a user experience designer based in Vancouver, CA
+  hero__title: Hi, I'm Vanessa.
+  hero__description: A user experience designer with a passion for crafting delightful and meaningful digital experiences.
   hero__image: "/images/home-cover.jpg"
 
 
 #-------------------------------
 # Logos Settings
 logos:
-  enable: true
+  enable: false
   logos__title: I’ve worked with some great сompanies
 
 logo__items:
@@ -78,8 +78,8 @@ logo__items:
 # Work Settings
 work:
   enable: true
-  work__title: Work
-  work__description: UX Portfolio
+  work__title: Recent work
+  work__description: UX portfolio
 
 
 #-------------------------------
@@ -134,7 +134,7 @@ blog:
 
 blog__settings:
   blog__title: Blog
-  blog__description: Short case studies and side projects 
+  blog__description: Case studies and side projects 
 
 
 #-------------------------------
@@ -160,4 +160,4 @@ footer__background__image:
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your GA Tracking Id
+google-analytics: G-NT2GCZTBNN # Add your GA Tracking Id
