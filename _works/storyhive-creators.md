@@ -1,21 +1,21 @@
 ---
-title: STORYHIVE - Supporting Content Creators
-description: STORYHIVE (SH) gives underrepresented communities in British Columbia and Alberta an opportunity to share their stories on the Canadian Broadcasting System. Through various programs they provide production funding, training, mentorship and distribution on TELUS Optik TV. 
+title: Supporting content creators
+description: STORYHIVE gives underrepresented communities in British Columbia and Alberta an opportunity to share their stories on the Canadian Broadcasting System. Through various programs they provide production funding, training, mentorship and distribution on TELUS Optik TV. 
 category: UX Design
 date: 2022/12/1
 client: STORYHIVE, by TELUS
-role: UX Designer
-image: '/images/storyhive-cover.png'
+role: UX designer
+image: '/images/storyhive-cover.jpg'
 image_caption: 'STORYHIVE.com homepage redesign'
 
 ---
 
-The problem was that their website was no longer fit for purpose. It was designed when SH only had a few funding opportunities available, and since expanding its offerings, business and user needs had outgrown the website.  Their 10 year anniversary was also coming up and they were ready for a website refresh!
+The problem was that storyhive.com was no longer fit for purpose. It was designed when SH only had a few funding opportunities available, and since expanding its offerings, business and user needs had outgrown the website.  Their 10 year anniversary was also coming up and they were ready for a website refresh!
 
 **My role** <br>
 I was contracted by Untangle UX (a local design agency) to work on two projects:
-1. Visual designer worked on and SH and TELUS Originals service blueprints
-2. User experience design for storyhive.com (pre-login)<br>
+1. Visual designer worked on STORYHIVE (SH) and TELUS Originals service blueprints
+2. User experience design for storyhive.com (pre-authentication)<br>
 Content audit, design exploration, design system, prototyping, handover report
 
 **Team** <br>
