@@ -48,15 +48,15 @@ During my internship, I worked on improving how Visier users send an analysis by
 ### User pain points
 I recruited five internal users and facilited usability test sessions to uncover pain points in the current design.
 
-- **The flow of did not match mental models of sending an email.** - People expressed that the current flow of sending an email was confusing. They first wanted to input WHO they are sending the email to, then WHAT they are sending, and finally shedule WHEN they wanted the email to send.
+- **The flow of did not match mental models of sending an email** - People expressed that the current flow of sending an email was confusing. They first wanted to input WHO they are sending the email to, then WHAT they are sending, and finally shedule WHEN they wanted the email to send.
 
 > I just spent time building my analysis and now I want to share it. The first place I go to is who I’m sharing this with or subject line for email details
 
-- **Novice users struggled to complete inputs.** - Many participants who were new to using the email experience questioned what certain input fields such as 'rule' were asking them for. This slowed down their ability to complete the task.
+- **Novice users struggled to complete inputs** - Many participants who were new to using the email experience questioned what certain input fields such as 'rule' were asking them for. This slowed down their ability to complete the task.
 
 > I felt dumb completing that process - I didn’t know a lot of the terms and reasoning why
 
-- **Setting a conditional delivery experienced the most friction.** - 40% of participants said that they did not feel confident that they successfully completed their task to input a conditional delivery. They wanted more support. 
+- **Setting a conditional delivery experienced the most friction** - 40% of participants said that they did not feel confident that they successfully completed their task to input a conditional delivery. They wanted more support. 
 
 > I don’t know if I succeeded. I’m not confident that I have the metrics as I want them to be. I would have to go somewhere else to check if the condition is the way I want it to be
 
@@ -70,11 +70,11 @@ I recruited five internal users and facilited usability test sessions to uncover
 ### Form design and scheduling in the wild
 I looked at other platforms to see how they design forms and email schedulers
 
-- **It's common to break a complex task into multiple steps.** - The current scheduler is a long form fit in a small space, with much of the content hidden in a scroll. When thinking about other complex tasks, Checkout Experiences came to mind as they are often chunked into manageable portions to complete. Often, divided into pages for order summary, shipping, delivery, payment, and review. Reducing the number of questions asked at once makes these tasks appear more manageable. 
+- **It's common to break a complex task into multiple steps** - The current scheduler is a long form fit in a small space, with much of the content hidden in a scroll. When thinking about other complex tasks, Checkout Experiences came to mind as they are often chunked into manageable portions to complete. Often, divided into pages for order summary, shipping, delivery, payment, and review. Reducing the number of questions asked at once makes these tasks appear more manageable. 
 
-- **Differentiating required vs optional fields.** - A common pattern found to communicate required vs optional fields was to mark * and (optional) for each input.
+- **Differentiating required vs optional fields** - A common pattern found to communicate required vs optional fields was to mark * and (optional) for each input.
 
-- **Scheduling tools follow a somewhat standard flow.** - Gmail, Outlook, Calendly, and Mailchimp follow similar user flows of completing the contents (eg. recipiencts, subject, message) before creating a schedule.   
+- **Scheduling tools follow a somewhat standard flow** - Gmail, Outlook, Calendly, and Mailchimp follow similar user flows of completing the contents (eg. recipiencts, subject, message) before creating a schedule.   
 
 ![Inspiration]({{site.baseurl}}/images/visier-wild1.jpg)
 *Example of Best Buy checkout experience*
@@ -109,6 +109,6 @@ A vision for the modal design used our new design system colours and type. It al
 
 ## Final thoughts 
 
-**Create positive moments by empathising with users.** - The email experience was enhanced as a result of testing the workflow on users, gathering feedback, and iterating the design. 
+**Create positive moments by empathising with users** - The email experience was enhanced as a result of testing the workflow on users, gathering feedback, and iterating the design. 
 
-**We can make workflows easier by leveraging better design patterns.** - A problem found with the current drawers pattern was that it’s easy to make mistakes. Information is lost in a scroll making it difficult to see the contents of each step. By leveraging an improved design pattern - a wizard - I was able to separate the complex workflow into small and manageable tasks to help users easily go through each step.
+**We can make workflows easier by leveraging better design patterns** - A problem found with the current drawers pattern was that it’s easy to make mistakes. Information is lost in a scroll making it difficult to see the contents of each step. By leveraging an improved design pattern - a wizard - I was able to separate the complex workflow into small and manageable tasks to help users easily go through each step.

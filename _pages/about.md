@@ -23,4 +23,4 @@ Currently, I'm seeking new work opportunities!
   <em>Gallery / Hobbies</em>
 </div>
 
-When I'm not designing, I'm usually taking [photos of my dog](https://www.instagram.com/arlo.thetoy/), deciding what to eat next, or doing something active like an Orangetheory class or [run](https://www.strava.com/athletes/27274012). 
+When I'm not designing, I'm usually taking [photos of my dog](https://www.instagram.com/arlo.thetoy/), deciding what to eat next, or doing something [active like an Orangetheory class or run](https://www.strava.com/athletes/27274012). 
