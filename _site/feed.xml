@@ -5,8 +5,8 @@
         <description>User Experience Design Portfolio</description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 20 Sep 2023 17:01:38 -0700</pubDate>
-        <lastBuildDate>Wed, 20 Sep 2023 17:01:38 -0700</lastBuildDate>
+        <pubDate>Thu, 05 Oct 2023 18:54:12 -0700</pubDate>
+        <lastBuildDate>Thu, 05 Oct 2023 18:54:12 -0700</lastBuildDate>
         <generator>Jekyll v4.3.2</generator>
         
             <item>
@@ -305,7 +305,7 @@ I had so much fun jamming on ideas with Raymond over the last 12 weeks. It was a
         
             <item>
                 <title>Zoom Video Communications</title>
-                <description>&lt;h2 id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
+                <description>&lt;h2 id=&quot;contents&quot;&gt;Contents&lt;/h2&gt;
 &lt;ol&gt;
   &lt;li&gt;&lt;a href=&quot;#why-redesign-zoom&quot;&gt;Why redesign Zoom?&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#design-process&quot;&gt;Design process&lt;/a&gt;&lt;/li&gt;
@@ -322,7 +322,7 @@ I had so much fun jamming on ideas with Raymond over the last 12 weeks. It was a
 &lt;p&gt;&lt;strong&gt;Project Type:&lt;/strong&gt; Academic &lt;br /&gt;
 &lt;strong&gt;Timeline:&lt;/strong&gt; 3 weeks&lt;/p&gt;
 
-&lt;h2 id=&quot;why-redesign-zoom&quot;&gt;Why redesign Zoom?&lt;/h2&gt;
+&lt;h1 id=&quot;why-redesign-zoom&quot;&gt;Why redesign Zoom?&lt;/h1&gt;
 &lt;p&gt;With the pandemic shifting much of education, work, and social gatherings online, platforms such as Zoom, GoToMeeting, and Microsoft Teams have boomed in popularity. For myself, this shift meant going from dressing up and seeing people face-to-face to attending meetings in my PJs and dreaming of being in Hawaii with my virtual background of waves crashing behind me.&lt;/p&gt;
 
 &lt;p&gt;Tiffany and I shared a love-hate relationship with Zoom as we used it both for university and our UX Design program. We saw opportunities within it where even slight tweaks could enhance the user experience. Further recognizing the business consideration that video-conferencing technologies are increasing in popularity, we wondered how we could go about giving Zoom the facelift it needed to stay ahead?&lt;/p&gt;
@@ -335,14 +335,14 @@ I had so much fun jamming on ideas with Raymond over the last 12 weeks. It was a
 &lt;p&gt;&lt;img src=&quot;/images/zoom-reviews.jpg&quot; alt=&quot;Reviews&quot; /&gt;
 &lt;em&gt;Zoom Google Play Store Reviews&lt;/em&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;design-process&quot;&gt;Design process&lt;/h2&gt;
+&lt;h1 id=&quot;design-process&quot;&gt;Design process&lt;/h1&gt;
 &lt;p&gt;This project was completed in 2 parts with the heuristic evaluation done first before the redesign.&lt;/p&gt;
 
 &lt;p&gt;The task flow of ‘starting a call’ followed the scenario of our user Tiffany wanting to start a call with her sister who would like to share her screen during the call. The current flow of how Tiffany would accomplish this task can be seen below.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/zoom-currentflow.jpg&quot; alt=&quot;Task Flow&quot; /&gt;
 &lt;em&gt;Current Start a Call Task Flow&lt;/em&gt;&lt;/p&gt;
-&lt;h3 id=&quot;heuristic-evaluation&quot;&gt;Heuristic evaluation&lt;/h3&gt;
+&lt;h2 id=&quot;heuristic-evaluation&quot;&gt;Heuristic evaluation&lt;/h2&gt;
 &lt;p&gt;We used 9 of Nielsen Norman’s 10 Usability Heuristics to evaluate the usability of the ‘setting up a call’ task flow. Each heuristic was then rated using a scale of 0-4, 4 being a usability catastrophe.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/zoom-heuristics.jpg&quot; alt=&quot;Task Flow&quot; /&gt;
@@ -354,20 +354,21 @@ I had so much fun jamming on ideas with Raymond over the last 12 weeks. It was a
   &lt;p&gt;&lt;cite&gt;– Jakob Nielsen&lt;/cite&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;div class=&quot;gallery-box&quot;&gt;
-  &lt;div class=&quot;gallery&quot;&gt;
-    &lt;img src=&quot;/images/zoom-1.jpg&quot; loading=&quot;lazy&quot; /&gt;
-    &lt;img src=&quot;/images/zoom-2.jpg&quot; loading=&quot;lazy&quot; /&gt;
-    &lt;img src=&quot;/images/zoom-3.jpg&quot; loading=&quot;lazy&quot; /&gt;
-    &lt;img src=&quot;/images/zoom-4.jpg&quot; loading=&quot;lazy&quot; /&gt;
-    &lt;img src=&quot;/images/zoom-5.jpg&quot; loading=&quot;lazy&quot; /&gt;
-    &lt;img src=&quot;/images/zoom-6.jpg&quot; loading=&quot;lazy&quot; /&gt;
-    &lt;img src=&quot;/images/zoom-7.jpg&quot; loading=&quot;lazy&quot; /&gt;
-  &lt;/div&gt;
-  &lt;em&gt;Gallery of heuristic evaluation&lt;/em&gt;
-&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;/images/zoom-1.jpg&quot; alt=&quot;Redesign&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;redesign&quot;&gt;Redesign&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/zoom-2.jpg&quot; alt=&quot;Redesign&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/zoom-3.jpg&quot; alt=&quot;Redesign&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/zoom-4.jpg&quot; alt=&quot;Redesign&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/zoom-5.jpg&quot; alt=&quot;Redesign&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/zoom-6.jpg&quot; alt=&quot;Redesign&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/zoom-7.jpg&quot; alt=&quot;Redesign&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;redesign&quot;&gt;Redesign&lt;/h2&gt;
 &lt;p&gt;Tiffany and I presented our heuristic evaluation to educators and peers and were given the green light to move forward with the redesign. To help us decide what to tackle first, we created a prioritization matrix that looked at the impact versus effort to implement each design recommendation. Given our project time constraint, we tackled high impact changes first before moving onto changes that didn’t add much value to the user.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/zoom-effortvimpact.jpg&quot; alt=&quot;Effort vs. Impact&quot; /&gt;
@@ -377,7 +378,7 @@ I had so much fun jamming on ideas with Raymond over the last 12 weeks. It was a
 
 &lt;p&gt;&lt;img src=&quot;/images/zoom-styleguide.jpg&quot; alt=&quot;Style Guide&quot; /&gt;
 &lt;em&gt;Redesign - effort vs. impact&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&quot;result&quot;&gt;Result&lt;/h2&gt;
+&lt;h1 id=&quot;result&quot;&gt;Result&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/zoom-redesign1.jpg&quot; alt=&quot;Redesign&quot; /&gt;&lt;/p&gt;
 
@@ -393,7 +394,7 @@ I had so much fun jamming on ideas with Raymond over the last 12 weeks. It was a
 
 &lt;p&gt;&lt;img src=&quot;/images/zoom-redesign7.jpg&quot; alt=&quot;Redesign&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;reflection&quot;&gt;Reflection&lt;/h2&gt;
+&lt;h1 id=&quot;reflection&quot;&gt;Reflection&lt;/h1&gt;
 
 &lt;p&gt;After 3 weeks of late night chats and working away on Figma, Tiffany and I presented our Zoom redesign to educators and peers where we received very positive reviews.&lt;/p&gt;
 

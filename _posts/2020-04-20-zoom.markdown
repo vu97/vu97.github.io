@@ -8,7 +8,7 @@ image_caption: 'Photo of our redesign'
 tags: [academic project]
 ---
 
-## Table of Contents
+## Contents
 1. [Why redesign Zoom?](#why-redesign-zoom)
 2. [Design process](#design-process)
 3. [Result](#result)
@@ -23,7 +23,7 @@ This case study offers a heuristic evaluation and proposed redesign for the Zoom
 **Project Type:** Academic <br>
 **Timeline:** 3 weeks
 
-## Why redesign Zoom?
+# Why redesign Zoom?
 With the pandemic shifting much of education, work, and social gatherings online, platforms such as Zoom, GoToMeeting, and Microsoft Teams have boomed in popularity. For myself, this shift meant going from dressing up and seeing people face-to-face to attending meetings in my PJs and dreaming of being in Hawaii with my virtual background of waves crashing behind me. 
 
 Tiffany and I shared a love-hate relationship with Zoom as we used it both for university and our UX Design program. We saw opportunities within it where even slight tweaks could enhance the user experience. Further recognizing the business consideration that video-conferencing technologies are increasing in popularity, we wondered how we could go about giving Zoom the facelift it needed to stay ahead?
@@ -36,14 +36,14 @@ When scrolling through Zoom's reviews on the Play Store, we realized that we wer
 ![Reviews]({{site.baseurl}}/images/zoom-reviews.jpg)
 *Zoom Google Play Store Reviews*
 
-## Design process
+# Design process
 This project was completed in 2 parts with the heuristic evaluation done first before the redesign.
 
 The task flow of 'starting a call' followed the scenario of our user Tiffany wanting to start a call with her sister who would like to share her screen during the call. The current flow of how Tiffany would accomplish this task can be seen below.
 
 ![Task Flow]({{site.baseurl}}/images/zoom-currentflow.jpg)
 *Current Start a Call Task Flow*
-### Heuristic evaluation
+## Heuristic evaluation
 We used 9 of Nielsen Norman's 10 Usability Heuristics to evaluate the usability of the ‘setting up a call’ task flow. Each heuristic was then rated using a scale of 0-4, 4 being a usability catastrophe.
 
 ![Task Flow]({{site.baseurl}}/images/zoom-heuristics.jpg)
@@ -53,20 +53,21 @@ We used 9 of Nielsen Norman's 10 Usability Heuristics to evaluate the usability 
 >
 > <cite>– Jakob Nielsen</cite>
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/zoom-1.jpg" loading="lazy">
-    <img src="/images/zoom-2.jpg" loading="lazy">
-    <img src="/images/zoom-3.jpg" loading="lazy">
-    <img src="/images/zoom-4.jpg" loading="lazy">
-    <img src="/images/zoom-5.jpg" loading="lazy">
-    <img src="/images/zoom-6.jpg" loading="lazy">
-    <img src="/images/zoom-7.jpg" loading="lazy">
-  </div>
-  <em>Gallery of heuristic evaluation</em>
-</div>
+![Redesign]({{site.baseurl}}/images/zoom-1.jpg) 
 
-### Redesign
+![Redesign]({{site.baseurl}}/images/zoom-2.jpg)
+
+![Redesign]({{site.baseurl}}/images/zoom-3.jpg)
+
+![Redesign]({{site.baseurl}}/images/zoom-4.jpg)
+
+![Redesign]({{site.baseurl}}/images/zoom-5.jpg)
+
+![Redesign]({{site.baseurl}}/images/zoom-6.jpg)
+
+![Redesign]({{site.baseurl}}/images/zoom-7.jpg)
+
+## Redesign
 Tiffany and I presented our heuristic evaluation to educators and peers and were given the green light to move forward with the redesign. To help us decide what to tackle first, we created a prioritization matrix that looked at the impact versus effort to implement each design recommendation. Given our project time constraint, we tackled high impact changes first before moving onto changes that didn’t add much value to the user.
 
 ![Effort vs. Impact]({{site.baseurl}}/images/zoom-effortvimpact.jpg)
@@ -76,7 +77,7 @@ Next, we created a style guide as we wanted our redesign to closely match the ap
 
 ![Style Guide]({{site.baseurl}}/images/zoom-styleguide.jpg)
 *Redesign - effort vs. impact*
-## Result
+# Result
 
 ![Redesign]({{site.baseurl}}/images/zoom-redesign1.jpg)
 
@@ -92,7 +93,7 @@ Next, we created a style guide as we wanted our redesign to closely match the ap
 
 ![Redesign]({{site.baseurl}}/images/zoom-redesign7.jpg)
 
-## Reflection
+# Reflection
 
 After 3 weeks of late night chats and working away on Figma, Tiffany and I presented our Zoom redesign to educators and peers where we received very positive reviews. 
 
