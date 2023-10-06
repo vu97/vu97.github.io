@@ -1,6 +1,6 @@
 ---
 title: Supporting content creators
-description: STORYHIVE gives underrepresented communities in British Columbia and Alberta an opportunity to share their stories on the Canadian Broadcasting System. Through various programs they provide production funding, training, mentorship and distribution on TELUS Optik TV. 
+description: Storyhive by TELUS gives underrepresented communities in British Columbia and Alberta an opportunity to share their stories on the Canadian Broadcasting System. Through various programs they provide production funding, training, mentorship and distribution on TELUS Optik TV. 
 category: UX Design
 date: 2022/12/1
 client: STORYHIVE, by TELUS

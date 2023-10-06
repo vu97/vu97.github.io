@@ -1,6 +1,6 @@
 ---
 title: Analysis email scheduling
-description: VISIER is a leading cloud-based analytics platform for workforce analytics and workforce planning. With best-practice expertise built-in, Visier empowers HR and business leaders to make immediate, informed decisions to drive better business outcomes.
+description: Visier is a leading cloud-based analytics platform for workforce analytics and workforce planning. With best-practice expertise built-in, Visier empowers HR and business leaders to make immediate, informed decisions to drive better business outcomes.
 category: UX Design
 date: 2022/04/01
 client: Visier
@@ -18,12 +18,12 @@ During my internship, I worked on improving how Visier users send an analysis by
   <em>Original send analysis by email experience</em>
 </div>
 
-**Goals**
+## Project goals
 - Test UX for the new conditional delivery feature
 - Identify pain points for the experience and provide recommendations for improvement
 - Update UI to match the design system, creating a more cohesive experience
 
-**Scope**
+## Scope
 - Research
 - Facilitation
 - Prototyping
